@@ -2,6 +2,10 @@ import struct
 import json
 import matplotlib.pyplot as plt
 import byml
+import os
+
+with open('totk_names.json') as json_file:
+    TOTK_NAMES = json.loads(json_file.read())
 
 with open('statues.json') as json_file:
     statues = json.loads(json_file.read())
@@ -103,27 +107,15 @@ def get_coordinate_couples(weapon_name):
 
     for statue in statues:
         if beco.get_data(statue['Translate'][0], statue['Translate'][2]) in area_list:
-            coordinate_list.append([statue['Translate'][0], statue['Translate'][2]])
+            coordinate_list.append([statue['Translate'][0], 0-statue['Translate'][2]])
 
-    coordinate_list = list(set(tuple(i) for i in coordinate_list))
-
-    x_values = [stuff[0] for stuff in coordinate_list]
-    z_values = [-1*stuff[1] for stuff in coordinate_list]
-    colors = ['#000000' for _ in range(len(x_values))]
-    sizes = [8 for _ in range(len(x_values))]
-    plt.figure(dpi=1800)
-    plt.axis('off')
-    plt.xlim([-5001, 5001])
-    plt.ylim([-4001, 4001])
-    plt.scatter(x_values, z_values, c=colors, s=sizes, linewidths=0)
-    plt.savefig(weapon_name + '.png', bbox_inches = 'tight', pad_inches = 0, transparent=True)
+    return coordinate_list
 
 def all_maps():
 
     for weapon in ["Weapon_Sword_001", "Weapon_Sword_002", "Weapon_Sword_003", "Weapon_Sword_024", "Weapon_Sword_025", "Weapon_Sword_027", "Weapon_Sword_029", "Weapon_Sword_031", "Weapon_Sword_041", "Weapon_Sword_047", "Weapon_Sword_051", "Weapon_Lsword_001", "Weapon_Lsword_002", "Weapon_Lsword_002", "Weapon_Lsword_003", "Weapon_Lsword_024", "Weapon_Lsword_027", "Weapon_Lsword_029", "Weapon_Lsword_036", "Weapon_Lsword_041", "Weapon_Lsword_047", "Weapon_Lsword_051", "Weapon_Spear_001", "Weapon_Spear_002", "Weapon_Spear_003", "Weapon_Spear_024", "Weapon_Spear_025", "Weapon_Spear_027", "Weapon_Spear_029", "Weapon_Spear_030", "Weapon_Spear_032", "Weapon_Spear_047"]:
-        get_coordinate_couples(weapon)
+        with open(TOTK_NAMES[weapon]['EUen name'] + '.json', 'w') as json_file:
+            json_file.write(json.dumps(get_coordinate_couples(weapon), indent = 2))
         print(f'Done {weapon}')
 
-#all_maps()
-
-get_coordinate_couples('Weapon_Spear_047')
+all_maps()

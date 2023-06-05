@@ -1,0 +1,5153 @@
+{
+    "Animal_Insect_A": {
+      "EUen name": "Hot-Footed Frog"
+    },
+    "Animal_Insect_AA": {
+      "EUen name": "Energetic Rhino Beetle"
+    },
+    "Animal_Insect_AB": {
+      "EUen name": "Smotherwing Butterfly"
+    },
+    "Animal_Insect_AG": {
+      "EUen name": "Sticky Frog"
+    },
+    "Animal_Insect_AH": {
+      "EUen name": "Sticky Lizard"
+    },
+    "Animal_Insect_AI": {
+      "EUen name": "Deep Firefly"
+    },
+    "Animal_Insect_B": {
+      "EUen name": "Tireless Frog"
+    },
+    "Animal_Insect_C": {
+      "EUen name": "Cold Darner"
+    },
+    "Animal_Insect_E": {
+      "EUen name": "Sunset Firefly"
+    },
+    "Animal_Insect_F": {
+      "EUen name": "Fairy"
+    },
+    "Animal_Insect_G": {
+      "EUen name": "Bladed Rhino Beetle"
+    },
+    "Animal_Insect_H": {
+      "EUen name": "Restless Cricket"
+    },
+    "Animal_Insect_I": {
+      "EUen name": "Electric Darner"
+    },
+    "Animal_Insect_M": {
+      "EUen name": "Hearty Lizard"
+    },
+    "Animal_Insect_N": {
+      "EUen name": "Winterwing Butterfly"
+    },
+    "Animal_Insect_P": {
+      "EUen name": "Rugged Rhino Beetle"
+    },
+    "Animal_Insect_Q": {
+      "EUen name": "Summerwing Butterfly"
+    },
+    "Animal_Insect_R": {
+      "EUen name": "Thunderwing Butterfly"
+    },
+    "Animal_Insect_S": {
+      "EUen name": "Hightail Lizard"
+    },
+    "Animal_Insect_T": {
+      "EUen name": "Warm Darner"
+    },
+    "Animal_Insect_X": {
+      "EUen name": "Fireproof Lizard"
+    },
+    "Item_FishGet_A": {
+      "EUen name": "Hyrule Bass"
+    },
+    "Item_FishGet_AA": {
+      "EUen name": "Ancient Arowana"
+    },
+    "Item_FishGet_AC": {
+      "EUen name": "Glowing Cave Fish"
+    },
+    "Item_FishGet_B": {
+      "EUen name": "Hearty Bass"
+    },
+    "Item_FishGet_C": {
+      "EUen name": "Chillfin Trout"
+    },
+    "Item_FishGet_D": {
+      "EUen name": "Voltfin Trout"
+    },
+    "Item_FishGet_E": {
+      "EUen name": "Mighty Carp"
+    },
+    "Item_FishGet_F": {
+      "EUen name": "Mighty Porgy"
+    },
+    "Item_FishGet_G": {
+      "EUen name": "Armored Porgy"
+    },
+    "Item_FishGet_H": {
+      "EUen name": "Armored Carp"
+    },
+    "Item_FishGet_I": {
+      "EUen name": "Hearty Salmon"
+    },
+    "Item_FishGet_J": {
+      "EUen name": "Sizzlefin Trout"
+    },
+    "Item_FishGet_L": {
+      "EUen name": "Staminoka Bass"
+    },
+    "Item_FishGet_M": {
+      "EUen name": "Sneaky River Snail"
+    },
+    "Item_FishGet_X": {
+      "EUen name": "Stealthfin Trout"
+    },
+    "Item_FishGet_Z": {
+      "EUen name": "Sanke Carp"
+    },
+    "Item_Enemy_151": {
+      "EUen name": "Silver Lynel Saber Horn"
+    },
+    "Item_Enemy_218": {
+      "EUen name": "Silver Lynel Mace Horn"
+    },
+    "Item_Weapon_01": {
+      "EUen name": "Ancient Blade"
+    },
+    "Item_Enemy_150": {
+      "EUen name": "White-Maned Lynel Saber Horn"
+    },
+    "Item_Enemy_217": {
+      "EUen name": "White-Maned Lynel Mace Horn"
+    },
+    "Item_Enemy_69": {
+      "EUen name": "Gibdo Bone"
+    },
+    "Item_Enemy_134": {
+      "EUen name": "Silver Boss Bokoblin Horn"
+    },
+    "Item_Enemy_188": {
+      "EUen name": "Blue-White Frox Fang"
+    },
+    "Item_Enemy_193": {
+      "EUen name": "Captain Construct IV Horn"
+    },
+    "Item_Enemy_109": {
+      "EUen name": "Silver Lizalfos Horn"
+    },
+    "Item_Enemy_149": {
+      "EUen name": "Blue-Maned Lynel Saber Horn"
+    },
+    "Item_Enemy_92": {
+      "EUen name": "Silver Moblin Horn"
+    },
+    "Item_Enemy_103": {
+      "EUen name": "Silver Horriblin Horn"
+    },
+    "Item_Enemy_210": {
+      "EUen name": "Molduga Jaw"
+    },
+    "Item_Enemy_116": {
+      "EUen name": "Silver Lizalfos Tail"
+    },
+    "Item_Enemy_80": {
+      "EUen name": "Silver Bokoblin Horn"
+    },
+    "Item_Enemy_153": {
+      "EUen name": "Gleeok Flame Horn"
+    },
+    "Item_Enemy_154": {
+      "EUen name": "Gleeok Frost Horn"
+    },
+    "Item_Enemy_155": {
+      "EUen name": "Gleeok Thunder Horn"
+    },
+    "Item_Enemy_208": {
+      "EUen name": "Stalnox Horn"
+    },
+    "Item_Enemy_216": {
+      "EUen name": "Blue-Maned Lynel Mace Horn"
+    },
+    "Item_Enemy_133": {
+      "EUen name": "Black Boss Bokoblin Horn"
+    },
+    "Item_Enemy_144": {
+      "EUen name": "Black Hinox Horn"
+    },
+    "Item_Enemy_108": {
+      "EUen name": "Black Lizalfos Horn"
+    },
+    "Item_Enemy_192": {
+      "EUen name": "Captain Construct III Horn"
+    },
+    "Item_Ore_A": {
+      "EUen name": "Diamond"
+    },
+    "Item_Enemy_115": {
+      "EUen name": "Black Lizalfos Tail"
+    },
+    "Item_Enemy_156": {
+      "EUen name": "Gleeok Wing"
+    },
+    "Item_Enemy_169": {
+      "EUen name": "Soldier Construct IV Horn"
+    },
+    "Item_Enemy_187": {
+      "EUen name": "Obsidian Frox Fang"
+    },
+    "Item_Enemy_91": {
+      "EUen name": "Black Moblin Horn"
+    },
+    "Item_Enemy_102": {
+      "EUen name": "Black Horriblin Horn"
+    },
+    "Item_Enemy_148": {
+      "EUen name": "Lynel Saber Horn"
+    },
+    "Item_Enemy_214": {
+      "EUen name": "Light Dragon's Horn"
+    },
+    "Item_Enemy_47": {
+      "EUen name": "Shard of Dinraal's Fang"
+    },
+    "Item_Enemy_51": {
+      "EUen name": "Shard of Naydra's Fang"
+    },
+    "Item_Enemy_55": {
+      "EUen name": "Shard of Farosh's Fang"
+    },
+    "Item_Enemy_143": {
+      "EUen name": "Blue Hinox Horn"
+    },
+    "Item_Enemy_168": {
+      "EUen name": "Soldier Construct III Horn"
+    },
+    "Item_Enemy_215": {
+      "EUen name": "Lynel Mace Horn"
+    },
+    "Item_Enemy_39": {
+      "EUen name": "Dinraal's Claw"
+    },
+    "Item_Enemy_50": {
+      "EUen name": "Naydra's Claw"
+    },
+    "Item_Enemy_54": {
+      "EUen name": "Farosh's Claw"
+    },
+    "Item_Enemy_79": {
+      "EUen name": "Black Bokoblin Horn"
+    },
+    "Item_Enemy_107": {
+      "EUen name": "Blue Lizalfos Horn"
+    },
+    "Item_Enemy_114": {
+      "EUen name": "Blue Lizalfos Tail"
+    },
+    "Item_Enemy_132": {
+      "EUen name": "Blue Boss Bokoblin Horn"
+    },
+    "Item_Enemy_160": {
+      "EUen name": "Shard of Light Dragon's Fang"
+    },
+    "Item_Enemy_228": {
+      "EUen name": "Shard of Dinraal's Spike"
+    },
+    "Item_Enemy_229": {
+      "EUen name": "Shard of Naydra's Spike"
+    },
+    "Item_Enemy_230": {
+      "EUen name": "Shard of Farosh's Spike"
+    },
+    "Item_Enemy_38": {
+      "EUen name": "Dinraal's Scale"
+    },
+    "Item_Enemy_49": {
+      "EUen name": "Naydra's Scale"
+    },
+    "Item_Enemy_53": {
+      "EUen name": "Farosh's Scale"
+    },
+    "Item_Enemy_191": {
+      "EUen name": "Captain Construct II Horn"
+    },
+    "Item_Enemy_58": {
+      "EUen name": "Fire-Breath Lizalfos Horn"
+    },
+    "Item_Enemy_59": {
+      "EUen name": "Ice-Breath Lizalfos Horn"
+    },
+    "Item_Enemy_60": {
+      "EUen name": "Electric Lizalfos Horn"
+    },
+    "Item_Enemy_159": {
+      "EUen name": "Light Dragon's Talon"
+    },
+    "Item_Enemy_186": {
+      "EUen name": "Frox Fang"
+    },
+    "Item_Enemy_90": {
+      "EUen name": "Blue Moblin Horn"
+    },
+    "Item_Enemy_142": {
+      "EUen name": "Hinox Horn"
+    },
+    "Item_Enemy_158": {
+      "EUen name": "Light Dragon's Scale"
+    },
+    "Item_Enemy_182": {
+      "EUen name": "Fire Like Stone"
+    },
+    "Item_Enemy_183": {
+      "EUen name": "Shock Like Stone"
+    },
+    "Item_Enemy_184": {
+      "EUen name": "Ice Like Stone"
+    },
+    "Item_Enemy_231": {
+      "EUen name": "Shard of Light Dragon's Spike"
+    },
+    "Item_Enemy_24": {
+      "EUen name": "Molduga Fin"
+    },
+    "Item_Enemy_101": {
+      "EUen name": "Blue Horriblin Horn"
+    },
+    "Item_Enemy_13": {
+      "EUen name": "Lynel Hoof"
+    },
+    "Item_Enemy_189": {
+      "EUen name": "Frox Fingernail"
+    },
+    "Item_Enemy_41": {
+      "EUen name": "Fire-Breath Lizalfos Tail"
+    },
+    "Item_Enemy_42": {
+      "EUen name": "Ice-Breath Lizalfos Tail"
+    },
+    "Item_Enemy_43": {
+      "EUen name": "Electric Lizalfos Tail"
+    },
+    "Item_Enemy_64": {
+      "EUen name": "Boss Bokoblin Horn"
+    },
+    "Item_Enemy_106": {
+      "EUen name": "Lizalfos Horn"
+    },
+    "Item_Enemy_117": {
+      "EUen name": "Fire Keese Eyeball"
+    },
+    "Item_Enemy_123": {
+      "EUen name": "Gibdo Wing"
+    },
+    "Item_Enemy_167": {
+      "EUen name": "Soldier Construct II Horn"
+    },
+    "Item_Enemy_33": {
+      "EUen name": "Hinox Tooth"
+    },
+    "Item_Enemy_32": {
+      "EUen name": "Hinox Toenail"
+    },
+    "Item_Enemy_78": {
+      "EUen name": "Blue Bokoblin Horn"
+    },
+    "Item_Enemy_05": {
+      "EUen name": "Lizalfos Tail"
+    },
+    "Item_Enemy_118": {
+      "EUen name": "Electric Keese Eyeball"
+    },
+    "Item_Enemy_135": {
+      "EUen name": "Boss Bokoblin Fang"
+    },
+    "Item_Enemy_89": {
+      "EUen name": "Moblin Horn"
+    },
+    "Item_Enemy_04": {
+      "EUen name": "Lizalfos Talon"
+    },
+    "Item_Enemy_100": {
+      "EUen name": "Horriblin Horn"
+    },
+    "Item_KingScale": {
+      "EUen name": "King's Scale"
+    },
+    "Item_Enemy_07": {
+      "EUen name": "Moblin Fang"
+    },
+    "Item_Enemy_104": {
+      "EUen name": "Horriblin Claw"
+    },
+    "Item_Enemy_119": {
+      "EUen name": "Ice Keese Eyeball"
+    },
+    "Item_Enemy_124": {
+      "EUen name": "Aerocuda Wing"
+    },
+    "Item_Enemy_181": {
+      "EUen name": "Like Like Stone"
+    },
+    "Item_Enemy_66": {
+      "EUen name": "Aerocuda Eyeball"
+    },
+    "Item_Enemy_77": {
+      "EUen name": "Bokoblin Horn"
+    },
+    "Item_Ore_F": {
+      "EUen name": "Amber"
+    },
+    "Item_Enemy_131": {
+      "EUen name": "Large Zonai Charge"
+    },
+    "Item_Enemy_166": {
+      "EUen name": "Soldier Construct Horn"
+    },
+    "Item_Enemy_20": {
+      "EUen name": "Octorok Tentacle"
+    },
+    "Item_Enemy_21": {
+      "EUen name": "Octorok Eyeball"
+    },
+    "Item_Enemy_01": {
+      "EUen name": "Bokoblin Fang"
+    },
+    "Item_Enemy_130": {
+      "EUen name": "Zonai Charge"
+    },
+    "Item_Enemy_44": {
+      "EUen name": "Fire Keese Wing"
+    },
+    "Item_Enemy_45": {
+      "EUen name": "Electric Keese Wing"
+    },
+    "Item_Enemy_46": {
+      "EUen name": "Ice Keese Wing"
+    },
+    "Item_Enemy_15": {
+      "EUen name": "Red Chuchu Jelly"
+    },
+    "Item_Enemy_16": {
+      "EUen name": "Yellow Chuchu Jelly"
+    },
+    "Item_Enemy_17": {
+      "EUen name": "White Chuchu Jelly"
+    },
+    "BeeHome": {
+      "EUen name": "Courser Bee Honey"
+    },
+    "BombFruit": {
+      "EUen name": "Bomb Flower"
+    },
+    "ConfusionFruit": {
+      "EUen name": "Muddle Bud"
+    },
+    "ElectricalFruit": {
+      "EUen name": "Shock Fruit"
+    },
+    "FireFruit": {
+      "EUen name": "Fire Fruit"
+    },
+    "FldObj_Pinecone_A_01": {
+      "EUen name": "Hylian Pine Cone"
+    },
+    "IceFruit": {
+      "EUen name": "Ice Fruit"
+    },
+    "Item_Enemy_02": {
+      "EUen name": "Bokoblin Guts"
+    },
+    "Item_Enemy_08": {
+      "EUen name": "Moblin Guts"
+    },
+    "Item_Enemy_105": {
+      "EUen name": "Horriblin Guts"
+    },
+    "Item_Enemy_121": {
+      "EUen name": "Gibdo Guts"
+    },
+    "Item_Enemy_136": {
+      "EUen name": "Boss Bokoblin Guts"
+    },
+    "Item_Enemy_14": {
+      "EUen name": "Lynel Guts"
+    },
+    "Item_Enemy_157": {
+      "EUen name": "Gleeok Guts"
+    },
+    "Item_Enemy_18": {
+      "EUen name": "Keese Wing"
+    },
+    "Item_Enemy_19": {
+      "EUen name": "Keese Eyeball"
+    },
+    "Item_Enemy_190": {
+      "EUen name": "Frox Guts"
+    },
+    "Item_Enemy_211": {
+      "EUen name": "Dinraal's Horn"
+    },
+    "Item_Enemy_212": {
+      "EUen name": "Naydra's Horn"
+    },
+    "Item_Enemy_213": {
+      "EUen name": "Farosh's Horn"
+    },
+    "Item_Enemy_25": {
+      "EUen name": "Molduga Guts"
+    },
+    "Item_Enemy_34": {
+      "EUen name": "Hinox Guts"
+    },
+    "Item_Enemy_40": {
+      "EUen name": "Chuchu Jelly"
+    },
+    "Item_Enemy_57": {
+      "EUen name": "Octo Balloon"
+    },
+    "Item_Enemy_67": {
+      "EUen name": "Captain Construct I Horn"
+    },
+    "Item_Fruit_A": {
+      "EUen name": "Apple"
+    },
+    "Item_Fruit_B": {
+      "EUen name": "Wildberry"
+    },
+    "Item_Fruit_C": {
+      "EUen name": "Voltfruit"
+    },
+    "Item_Fruit_E": {
+      "EUen name": "Fleet-Lotus Seeds"
+    },
+    "Item_Fruit_F": {
+      "EUen name": "Hydromelon"
+    },
+    "Item_Fruit_G": {
+      "EUen name": "Palm Fruit"
+    },
+    "Item_Fruit_H": {
+      "EUen name": "Mighty Bananas"
+    },
+    "Item_Fruit_I": {
+      "EUen name": "Spicy Pepper"
+    },
+    "Item_Fruit_J": {
+      "EUen name": "Fortified Pumpkin"
+    },
+    "Item_Fruit_K": {
+      "EUen name": "Acorn"
+    },
+    "Item_Fruit_L": {
+      "EUen name": "Chickaloo Tree Nut"
+    },
+    "Item_Fruit_M": {
+      "EUen name": "Hylian Tomato"
+    },
+    "Item_Fruit_N": {
+      "EUen name": "Sun Pumpkin"
+    },
+    "Item_Fruit_P": {
+      "EUen name": "Golden Apple"
+    },
+    "Item_InsectGet_K": {
+      "EUen name": "Razorclaw Crab"
+    },
+    "Item_InsectGet_O": {
+      "EUen name": "Ironshell Crab"
+    },
+    "Item_InsectGet_Z": {
+      "EUen name": "Bright-Eyed Crab"
+    },
+    "Item_Material_01": {
+      "EUen name": "Cane Sugar"
+    },
+    "Item_Material_02": {
+      "EUen name": "Goron Spice"
+    },
+    "Item_Material_03": {
+      "EUen name": "Hylian Rice"
+    },
+    "Item_Material_04": {
+      "EUen name": "Bird Egg"
+    },
+    "Item_Material_05": {
+      "EUen name": "Fresh Milk"
+    },
+    "Item_Material_06": {
+      "EUen name": "Goat Butter"
+    },
+    "Item_Material_07": {
+      "EUen name": "Tabantha Wheat"
+    },
+    "Item_Material_08": {
+      "EUen name": "Monster Extract"
+    },
+    "Item_Material_09": {
+      "EUen name": "Oil Jar"
+    },
+    "Item_Material_10": {
+      "EUen name": "Hateno Cheese"
+    },
+    "Item_Material_11": {
+      "EUen name": "Dark Clump"
+    },
+    "Item_Meat_01": {
+      "EUen name": "Raw Meat"
+    },
+    "Item_Meat_02": {
+      "EUen name": "Raw Prime Meat"
+    },
+    "Item_Meat_06": {
+      "EUen name": "Raw Bird Drumstick"
+    },
+    "Item_Meat_07": {
+      "EUen name": "Raw Bird Thigh"
+    },
+    "Item_Meat_11": {
+      "EUen name": "Raw Gourmet Meat"
+    },
+    "Item_Meat_12": {
+      "EUen name": "Raw Whole Bird"
+    },
+    "Item_Mushroom_A": {
+      "EUen name": "Stamella Shroom"
+    },
+    "Item_Mushroom_B": {
+      "EUen name": "Chillshroom"
+    },
+    "Item_Mushroom_C": {
+      "EUen name": "Sunshroom"
+    },
+    "Item_Mushroom_E": {
+      "EUen name": "Hylian Shroom"
+    },
+    "Item_Mushroom_F": {
+      "EUen name": "Hearty Truffle"
+    },
+    "Item_Mushroom_H": {
+      "EUen name": "Zapshroom"
+    },
+    "Item_Mushroom_J": {
+      "EUen name": "Silent Shroom"
+    },
+    "Item_Mushroom_L": {
+      "EUen name": "Razorshroom"
+    },
+    "Item_Mushroom_M": {
+      "EUen name": "Ironshroom"
+    },
+    "Item_Mushroom_N": {
+      "EUen name": "Big Hearty Truffle"
+    },
+    "Item_Mushroom_O": {
+      "EUen name": "Endura Shroom"
+    },
+    "Item_Mushroom_P": {
+      "EUen name": "Skyshroom"
+    },
+    "Item_MushroomGet_D": {
+      "EUen name": "Rushroom"
+    },
+    "Item_MushroomGet_K": {
+      "EUen name": "Brightcap"
+    },
+    "Item_Ore_B": {
+      "EUen name": "Ruby"
+    },
+    "Item_Ore_C": {
+      "EUen name": "Sapphire"
+    },
+    "Item_Ore_D": {
+      "EUen name": "Topaz"
+    },
+    "Item_Ore_E": {
+      "EUen name": "Opal"
+    },
+    "Item_Ore_G": {
+      "EUen name": "Luminous Stone"
+    },
+    "Item_Ore_H": {
+      "EUen name": "Rock Salt"
+    },
+    "Item_Ore_I": {
+      "EUen name": "Flint"
+    },
+    "Item_Ore_J": {
+      "EUen name": "Star Fragment"
+    },
+    "Item_Ore_L": {
+      "EUen name": "Zonaite"
+    },
+    "Item_Ore_M": {
+      "EUen name": "Large Zonaite"
+    },
+    "Item_PlantGet_A": {
+      "EUen name": "Hyrule Herb"
+    },
+    "Item_PlantGet_B": {
+      "EUen name": "Hearty Radish"
+    },
+    "Item_PlantGet_C": {
+      "EUen name": "Big Hearty Radish"
+    },
+    "Item_PlantGet_E": {
+      "EUen name": "Cool Safflina"
+    },
+    "Item_PlantGet_F": {
+      "EUen name": "Warm Safflina"
+    },
+    "Item_PlantGet_G": {
+      "EUen name": "Mighty Thistle"
+    },
+    "Item_PlantGet_H": {
+      "EUen name": "Armoranth"
+    },
+    "Item_PlantGet_I": {
+      "EUen name": "Blue Nightshade"
+    },
+    "Item_PlantGet_J": {
+      "EUen name": "Silent Princess"
+    },
+    "Item_PlantGet_L": {
+      "EUen name": "Electric Safflina"
+    },
+    "Item_PlantGet_M": {
+      "EUen name": "Swift Carrot"
+    },
+    "Item_PlantGet_O": {
+      "EUen name": "Swift Violet"
+    },
+    "Item_PlantGet_Q": {
+      "EUen name": "Endura Carrot"
+    },
+    "Item_PlantGet_R": {
+      "EUen name": "Sundelion"
+    },
+    "Item_PlantGet_S": {
+      "EUen name": "Stambulb"
+    },
+    "Item_PlantGet_U": {
+      "EUen name": "Korok Frond"
+    },
+    "LightBall_Large": {
+      "EUen name": "Giant Brightbloom Seed"
+    },
+    "LightBall_Small": {
+      "EUen name": "Brightbloom Seed"
+    },
+    "LightFruit": {
+      "EUen name": "Dazzlefruit"
+    },
+    "Obj_FireWoodBundle": {
+      "EUen name": "Wood"
+    },
+    "SmokeFruit": {
+      "EUen name": "Puffshroom"
+    },
+    "WaterFruit": {
+      "EUen name": "Splash Fruit"
+    },
+    "Weapon_Bow_001": {
+      "EUen name": "Traveler's Bow"
+    },
+    "Weapon_Bow_002": {
+      "EUen name": "Soldier's Bow"
+    },
+    "Weapon_Bow_003": {
+      "EUen name": "Spiked Boko Bow"
+    },
+    "Weapon_Bow_004": {
+      "EUen name": "Boko Bow"
+    },
+    "Weapon_Bow_006": {
+      "EUen name": "Lizal Bow"
+    },
+    "Weapon_Bow_009": {
+      "EUen name": "Lynel Bow"
+    },
+    "Weapon_Bow_011": {
+      "EUen name": "Strengthened Lizal Bow"
+    },
+    "Weapon_Bow_013": {
+      "EUen name": "Forest Dweller's Bow"
+    },
+    "Weapon_Bow_014": {
+      "EUen name": "Zora Bow"
+    },
+    "Weapon_Bow_015": {
+      "EUen name": "Gerudo Bow"
+    },
+    "Weapon_Bow_016": {
+      "EUen name": "Swallow Bow"
+    },
+    "Weapon_Bow_016_Event": {
+      "EUen name": null
+    },
+    "Weapon_Bow_017": {
+      "EUen name": "Falcon Bow"
+    },
+    "Weapon_Bow_026": {
+      "EUen name": "Mighty Lynel Bow"
+    },
+    "Weapon_Bow_027": {
+      "EUen name": "Dragonbone Boko Bow"
+    },
+    "Weapon_Bow_028": {
+      "EUen name": "Great Eagle Bow"
+    },
+    "Weapon_Bow_029": {
+      "EUen name": "Phrenic Bow"
+    },
+    "Weapon_Bow_030": {
+      "EUen name": "Steel Lizal Bow"
+    },
+    "Weapon_Bow_032": {
+      "EUen name": "Savage Lynel Bow"
+    },
+    "Weapon_Bow_033": {
+      "EUen name": "Royal Guard's Bow"
+    },
+    "Weapon_Bow_035": {
+      "EUen name": "Knight's Bow"
+    },
+    "Weapon_Bow_036": {
+      "EUen name": "Royal Bow"
+    },
+    "Weapon_Bow_038": {
+      "EUen name": "Wooden Bow"
+    },
+    "Weapon_Bow_040": {
+      "EUen name": "Duplex Bow"
+    },
+    "Weapon_Bow_072": {
+      "EUen name": "Dusk Bow"
+    },
+    "Weapon_Bow_101": {
+      "EUen name": "Zonaite Bow"
+    },
+    "Weapon_Bow_104": {
+      "EUen name": "Construct Bow"
+    },
+    "Weapon_Bow_105": {
+      "EUen name": "Strong Construct Bow"
+    },
+    "Weapon_Bow_106": {
+      "EUen name": "Mighty Construct Bow"
+    },
+    "Weapon_Bow_107": {
+      "EUen name": "Old Wooden Bow"
+    },
+    "Weapon_Bow_116": {
+      "EUen name": null
+    },
+    "Weapon_Bow_128": {
+      "EUen name": null
+    },
+    "Weapon_Bow_129": {
+      "EUen name": null
+    },
+    "Weapon_Bow_166": {
+      "EUen name": "Demon King's Bow"
+    },
+    "Weapon_Bow_166_For_Ganondorf": {
+      "EUen name": null
+    },
+    "Weapon_Shield_001": {
+      "EUen name": "Wooden Shield"
+    },
+    "Weapon_Shield_002": {
+      "EUen name": "Soldier's Shield"
+    },
+    "Weapon_Shield_003": {
+      "EUen name": "Knight's Shield"
+    },
+    "Weapon_Shield_004": {
+      "EUen name": "Boko Shield"
+    },
+    "Weapon_Shield_005": {
+      "EUen name": "Spiked Boko Shield"
+    },
+    "Weapon_Shield_006": {
+      "EUen name": "Dragonbone Boko Shield"
+    },
+    "Weapon_Shield_007": {
+      "EUen name": "Lizal Shield"
+    },
+    "Weapon_Shield_008": {
+      "EUen name": "Reinforced Lizal Shield"
+    },
+    "Weapon_Shield_009": {
+      "EUen name": "Steel Lizal Shield"
+    },
+    "Weapon_Shield_016": {
+      "EUen name": "Lynel Shield"
+    },
+    "Weapon_Shield_017": {
+      "EUen name": "Mighty Lynel Shield"
+    },
+    "Weapon_Shield_018": {
+      "EUen name": "Savage Lynel Shield"
+    },
+    "Weapon_Shield_021": {
+      "EUen name": "Rusty Shield"
+    },
+    "Weapon_Shield_022": {
+      "EUen name": "Royal Shield"
+    },
+    "Weapon_Shield_023": {
+      "EUen name": "Forest Dweller's Shield"
+    },
+    "Weapon_Shield_025": {
+      "EUen name": "Zora Shield"
+    },
+    "Weapon_Shield_026": {
+      "EUen name": "Gerudo Shield"
+    },
+    "Weapon_Shield_030": {
+      "EUen name": "Hylian Shield"
+    },
+    "Weapon_Shield_031": {
+      "EUen name": "Hunter's Shield"
+    },
+    "Weapon_Shield_032": {
+      "EUen name": "Fisherman's Shield"
+    },
+    "Weapon_Shield_033": {
+      "EUen name": "Royal Guard's Shield"
+    },
+    "Weapon_Shield_034": {
+      "EUen name": "Emblazoned Shield"
+    },
+    "Weapon_Shield_035": {
+      "EUen name": "Traveler's Shield"
+    },
+    "Weapon_Shield_036": {
+      "EUen name": "Radiant Shield"
+    },
+    "Weapon_Shield_037": {
+      "EUen name": "Daybreaker"
+    },
+    "Weapon_Shield_040": {
+      "EUen name": "Pot Lid"
+    },
+    "Weapon_Shield_041": {
+      "EUen name": "Shield of the Mind's Eye"
+    },
+    "Weapon_Shield_042": {
+      "EUen name": "Kite Shield"
+    },
+    "Weapon_Shield_057": {
+      "EUen name": "Sea-Breeze Shield"
+    },
+    "Weapon_Shield_101": {
+      "EUen name": "Zonaite Shield"
+    },
+    "Weapon_Shield_102": {
+      "EUen name": "Strong Zonaite Shield"
+    },
+    "Weapon_Shield_103": {
+      "EUen name": "Mighty Zonaite Shield"
+    },
+    "Weapon_Shield_107": {
+      "EUen name": "Old Wooden Shield"
+    },
+    "Weapon_Lsword_001": {
+      "EUen name": "Traveler's Claymore (Intact)"
+    },
+    "Weapon_Lsword_002": {
+      "EUen name": "Soldier's Claymore (Intact)"
+    },
+    "Weapon_Lsword_003": {
+      "EUen name": "Knight's Claymore (Intact)"
+    },
+    "Weapon_Lsword_019": {
+      "EUen name": "Moblin Arm"
+    },
+    "Weapon_Lsword_020": {
+      "EUen name": "Rusty Claymore"
+    },
+    "Weapon_Lsword_024": {
+      "EUen name": "Royal Claymore (Intact)"
+    },
+    "Weapon_Lsword_027": {
+      "EUen name": "Zora Longsword (Intact)"
+    },
+    "Weapon_Lsword_029": {
+      "EUen name": "Gerudo Claymore (Intact)"
+    },
+    "Weapon_Lsword_036": {
+      "EUen name": "Cobble Crusher (Intact)"
+    },
+    "Weapon_Lsword_038": {
+      "EUen name": "Boat Oar"
+    },
+    "Weapon_Lsword_041": {
+      "EUen name": "Eightfold Longblade (Intact)"
+    },
+    "Weapon_Lsword_045": {
+      "EUen name": "Farming Hoe"
+    },
+    "Weapon_Lsword_047": {
+      "EUen name": "Royal Guard's Claymore (Intact)"
+    },
+    "Weapon_Lsword_051": {
+      "EUen name": "Giant Boomerang (Intact)"
+    },
+    "Weapon_Lsword_054": {
+      "EUen name": "Boulder Breaker"
+    },
+    "Weapon_Lsword_057": {
+      "EUen name": "Dusk Claymore"
+    },
+    "Weapon_Lsword_059": {
+      "EUen name": "Biggoron's Sword"
+    },
+    "Weapon_Lsword_060": {
+      "EUen name": "Fierce Deity Sword"
+    },
+    "Weapon_Lsword_101": {
+      "EUen name": "Zonaite Longsword"
+    },
+    "Weapon_Lsword_103": {
+      "EUen name": "Thick Stick"
+    },
+    "Weapon_Lsword_106": {
+      "EUen name": "Traveler's Claymore"
+    },
+    "Weapon_Lsword_108": {
+      "EUen name": "Sturdy Thick Stick"
+    },
+    "Weapon_Lsword_109": {
+      "EUen name": "Gnarled Thick Stick"
+    },
+    "Weapon_Lsword_112": {
+      "EUen name": "Soldier's Claymore"
+    },
+    "Weapon_Lsword_113": {
+      "EUen name": "Knight's Claymore"
+    },
+    "Weapon_Lsword_114": {
+      "EUen name": "Eightfold Longblade"
+    },
+    "Weapon_Lsword_124": {
+      "EUen name": "Royal Claymore"
+    },
+    "Weapon_Lsword_127": {
+      "EUen name": "Zora Longsword"
+    },
+    "Weapon_Lsword_129": {
+      "EUen name": "Gerudo Claymore"
+    },
+    "Weapon_Lsword_136": {
+      "EUen name": "Cobble Crusher"
+    },
+    "Weapon_Lsword_147": {
+      "EUen name": "Royal Guard's Claymore"
+    },
+    "Weapon_Lsword_154": {
+      "EUen name": null
+    },
+    "Weapon_Lsword_161": {
+      "EUen name": "Magic Scepter"
+    },
+    "Weapon_Lsword_163": {
+      "EUen name": "Strong Zonaite Longsword"
+    },
+    "Weapon_Lsword_164": {
+      "EUen name": "Mighty Zonaite Longsword"
+    },
+    "Weapon_Lsword_166": {
+      "EUen name": "Gloom Club"
+    },
+    "Weapon_Lsword_168": {
+      "EUen name": "Thick Stick"
+    },
+    "Weapon_Lsword_174": {
+      "EUen name": "Giant Boomerang"
+    },
+    "Weapon_Spear_001": {
+      "EUen name": "Traveler's Spear (Intact)"
+    },
+    "Weapon_Spear_002": {
+      "EUen name": "Soldier's Spear (Intact)"
+    },
+    "Weapon_Spear_003": {
+      "EUen name": "Knight's Halberd (Intact)"
+    },
+    "Weapon_Spear_021": {
+      "EUen name": "Rusty Halberd"
+    },
+    "Weapon_Spear_022": {
+      "EUen name": "Farmer's Pitchfork"
+    },
+    "Weapon_Spear_024": {
+      "EUen name": "Royal Halberd (Intact)"
+    },
+    "Weapon_Spear_025": {
+      "EUen name": "Forest Dweller's Spear (Intact)"
+    },
+    "Weapon_Spear_027": {
+      "EUen name": "Zora Spear (Intact)"
+    },
+    "Weapon_Spear_029": {
+      "EUen name": "Gerudo Spear (Intact)"
+    },
+    "Weapon_Spear_030": {
+      "EUen name": "Throwing Spear (Intact)"
+    },
+    "Weapon_Spear_032": {
+      "EUen name": "Feathered Spear (Intact)"
+    },
+    "Weapon_Spear_036": {
+      "EUen name": "Wooden Mop"
+    },
+    "Weapon_Spear_036_MercenarySoldier": {
+      "EUen name": null
+    },
+    "Weapon_Spear_038": {
+      "EUen name": "Fishing Harpoon"
+    },
+    "Weapon_Spear_047": {
+      "EUen name": "Royal Guard's Spear (Intact)"
+    },
+    "Weapon_Spear_050": {
+      "EUen name": "Lightscale Trident"
+    },
+    "Weapon_Spear_101": {
+      "EUen name": "Zonaite Spear"
+    },
+    "Weapon_Spear_103": {
+      "EUen name": "Long Stick"
+    },
+    "Weapon_Spear_106": {
+      "EUen name": "Traveler's Spear"
+    },
+    "Weapon_Spear_108": {
+      "EUen name": "Sturdy Long Stick"
+    },
+    "Weapon_Spear_109": {
+      "EUen name": "Gnarled Long Stick"
+    },
+    "Weapon_Spear_112": {
+      "EUen name": "Soldier's Spear"
+    },
+    "Weapon_Spear_113": {
+      "EUen name": "Knight's Halberd"
+    },
+    "Weapon_Spear_124": {
+      "EUen name": "Royal Halberd"
+    },
+    "Weapon_Spear_125": {
+      "EUen name": "Forest Dweller's Spear"
+    },
+    "Weapon_Spear_127": {
+      "EUen name": "Zora Spear"
+    },
+    "Weapon_Spear_129": {
+      "EUen name": "Gerudo Spear"
+    },
+    "Weapon_Spear_132": {
+      "EUen name": "Feathered Spear"
+    },
+    "Weapon_Spear_147": {
+      "EUen name": "Royal Guard's Spear"
+    },
+    "Weapon_Spear_150": {
+      "EUen name": null
+    },
+    "Weapon_Spear_161": {
+      "EUen name": "Magic Staff"
+    },
+    "Weapon_Spear_163": {
+      "EUen name": "Strong Zonaite Spear"
+    },
+    "Weapon_Spear_164": {
+      "EUen name": "Mighty Zonaite Spear"
+    },
+    "Weapon_Spear_166": {
+      "EUen name": "Gloom Spear"
+    },
+    "Weapon_Spear_168": {
+      "EUen name": "Long Stick"
+    },
+    "Weapon_Spear_173": {
+      "EUen name": "Throwing Spear"
+    },
+    "Weapon_Sword_001": {
+      "EUen name": "Traveler's Sword (Intact)"
+    },
+    "Weapon_Sword_002": {
+      "EUen name": "Soldier's Broadsword (Intact)"
+    },
+    "Weapon_Sword_003": {
+      "EUen name": "Knight's Broadsword (Intact)"
+    },
+    "Weapon_Sword_019": {
+      "EUen name": "Bokoblin Arm"
+    },
+    "Weapon_Sword_020": {
+      "EUen name": "Lizalfos Arm"
+    },
+    "Weapon_Sword_021": {
+      "EUen name": "Rusty Broadsword"
+    },
+    "Weapon_Sword_022": {
+      "EUen name": "Soup Ladle"
+    },
+    "Weapon_Sword_024": {
+      "EUen name": "Royal Broadsword (Intact)"
+    },
+    "Weapon_Sword_025": {
+      "EUen name": "Forest Dweller's Sword (Intact)"
+    },
+    "Weapon_Sword_027": {
+      "EUen name": "Zora Sword (Intact)"
+    },
+    "Weapon_Sword_029": {
+      "EUen name": "Gerudo Scimitar (Intact)"
+    },
+    "Weapon_Sword_031": {
+      "EUen name": "Feathered Edge (Intact)"
+    },
+    "Weapon_Sword_041": {
+      "EUen name": "Eightfold Blade (Intact)"
+    },
+    "Weapon_Sword_043": {
+      "EUen name": "Torch"
+    },
+    "Weapon_Sword_044": {
+      "EUen name": "Tree Branch"
+    },
+    "Weapon_Sword_047": {
+      "EUen name": "Royal Guard's Sword (Intact)"
+    },
+    "Weapon_Sword_051": {
+      "EUen name": "Boomerang (Intact)"
+    },
+    "Weapon_Sword_052": {
+      "EUen name": "Scimitar of the Seven"
+    },
+    "Weapon_Sword_057": {
+      "EUen name": "White Sword of the Sky"
+    },
+    "Weapon_Sword_058": {
+      "EUen name": "Sword of the Hero"
+    },
+    "Weapon_Sword_059": {
+      "EUen name": "Sea-Breeze Boomerang"
+    },
+    "Weapon_Sword_070": {
+      "EUen name": "Master Sword"
+    },
+    "Weapon_Sword_070_Broken": {
+      "EUen name": "Decayed Master Sword"
+    },
+    "Weapon_Sword_101": {
+      "EUen name": "Zonaite Sword"
+    },
+    "Weapon_Sword_103": {
+      "EUen name": "Wooden Stick"
+    },
+    "Weapon_Sword_105": {
+      "EUen name": "Boomerang"
+    },
+    "Weapon_Sword_106": {
+      "EUen name": "Traveler's Sword"
+    },
+    "Weapon_Sword_107": {
+      "EUen name": "Lizal Boomerang"
+    },
+    "Weapon_Sword_108": {
+      "EUen name": "Sturdy Wooden Stick"
+    },
+    "Weapon_Sword_109": {
+      "EUen name": "Gnarled Wooden Stick"
+    },
+    "Weapon_Sword_112": {
+      "EUen name": "Soldier's Broadsword"
+    },
+    "Weapon_Sword_113": {
+      "EUen name": "Knight's Broadsword"
+    },
+    "Weapon_Sword_114": {
+      "EUen name": "Eightfold Blade"
+    },
+    "Weapon_Sword_124": {
+      "EUen name": "Royal Broadsword"
+    },
+    "Weapon_Sword_125": {
+      "EUen name": "Forest Dweller's Sword"
+    },
+    "Weapon_Sword_127": {
+      "EUen name": "Zora Sword"
+    },
+    "Weapon_Sword_129": {
+      "EUen name": "Gerudo Scimitar"
+    },
+    "Weapon_Sword_131": {
+      "EUen name": "Feathered Edge"
+    },
+    "Weapon_Sword_147": {
+      "EUen name": "Royal Guard's Sword"
+    },
+    "Weapon_Sword_152_Main": {
+      "EUen name": null
+    },
+    "Weapon_Sword_152_Sub": {
+      "EUen name": null
+    },
+    "Weapon_Sword_161": {
+      "EUen name": "Magic Rod"
+    },
+    "Weapon_Sword_163": {
+      "EUen name": "Strong Zonaite Sword"
+    },
+    "Weapon_Sword_164": {
+      "EUen name": "Mighty Zonaite Sword"
+    },
+    "Weapon_Sword_166": {
+      "EUen name": "Gloom Sword"
+    },
+    "Weapon_Sword_167": {
+      "EUen name": "Tree Branch"
+    },
+    "Weapon_Sword_168": {
+      "EUen name": "Wooden Stick"
+    },
+    "AsbObj_Assassin_BaloonkeyPlate_01": {
+      "EUen name": "Scrap"
+    },
+    "AsbObj_Assassin_Raft_01": {
+      "EUen name": "Raft"
+    },
+    "AsbObj_BoneStick_A_01": {
+      "EUen name": "Spiny Bone"
+    },
+    "AsbObj_HyliaWoodRuinShelter_Wood_B_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_HyliaWoodRuinShelter_Wood_C_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_HyliaWoodRuinShelter_Wood_C_02": {
+      "EUen name": "Board"
+    },
+    "AsbObj_Icicle_A_01": {
+      "EUen name": "Icicle"
+    },
+    "AsbObj_Icicle_A_02": {
+      "EUen name": "Icicle"
+    },
+    "AsbObj_MetalPole_A_LL_01": {
+      "EUen name": "Iron Pole"
+    },
+    "AsbObj_MetalRectangle_A_LL_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_MetalRectangle_A_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_MetalSquare_A_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_RockParts_C_L_01": {
+      "EUen name": "Boulder"
+    },
+    "AsbObj_RockParts_C_S_01": {
+      "EUen name": "Rock"
+    },
+    "AsbObj_RockParts_C_S_05": {
+      "EUen name": "Blue Rock"
+    },
+    "AsbObj_RopewayArm_A_01": {
+      "EUen name": "Hook"
+    },
+    "AsbObj_RopewayArm_A_03": {
+      "EUen name": "Hook"
+    },
+    "AsbObj_SharpRock_A_S_01": {
+      "EUen name": "Stone"
+    },
+    "AsbObj_SpikeDynamic_A_01": {
+      "EUen name": "Spikes"
+    },
+    "AsbObj_StoneLightSquare_A_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_StoneLightSquare_A_M_02": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_StoneRectangle_B_LL_01": {
+      "EUen name": "Stone Slab"
+    },
+    "AsbObj_StoneRectangle_B_LL_02": {
+      "EUen name": "Stone Slab"
+    },
+    "AsbObj_StoneRectangle_B_LL_03": {
+      "EUen name": "Stone Slab"
+    },
+    "AsbObj_StoneRectangle_B_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_StoneSquare_B_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_WhiteWoodRectangle_A_LL_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WhiteWoodRectangle_A_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_WhiteWoodSquare_A_M_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WhiteWoodStick_A_LL_01": {
+      "EUen name": "Iron Pole"
+    },
+    "AsbObj_WoodRectangle_A_LL_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodRectangle_A_M_01": {
+      "EUen name": "Metal Plate"
+    },
+    "AsbObj_WoodRectangle_QuickSand_A_LL_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodSail_A_01": {
+      "EUen name": "Sail"
+    },
+    "AsbObj_WoodSail_A_01_ForAttachment": {
+      "EUen name": "Sail"
+    },
+    "AsbObj_WoodSail_A_02": {
+      "EUen name": "Sail"
+    },
+    "AsbObj_WoodSail_A_02_ForAttachment": {
+      "EUen name": "Sail"
+    },
+    "AsbObj_WoodSquare_A_M_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodSquare_A_M_01_WellCover": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodSquare_QuickSand_A_M_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodStableHostelShed_A_01": {
+      "EUen name": "Board"
+    },
+    "AsbObj_WoodStick_A_LL_01": {
+      "EUen name": "Lumber"
+    },
+    "AsbObj_WoodWheel_A_01": {
+      "EUen name": "Wheel"
+    },
+    "Barrel": {
+      "EUen name": "Barrel"
+    },
+    "BarrelBomb": {
+      "EUen name": "Bomb Barrel"
+    },
+    "BarrelBomb2": {
+      "EUen name": "Bomb Barrel"
+    },
+    "BarrelBomb3": {
+      "EUen name": "Bomb Barrel"
+    },
+    "Barrel_CDungeon": {
+      "EUen name": "Barrel"
+    },
+    "Barrel_SkyObj": {
+      "EUen name": "Barrel"
+    },
+    "Barrel_SkyObjOld_A_01": {
+      "EUen name": "Barrel"
+    },
+    "BrokenSnowBall": {
+      "EUen name": "Snowball"
+    },
+    "BrokenSnowBallForAttachmentLarge": {
+      "EUen name": "Snowball"
+    },
+    "BrokenSnowBallForAttachmentSmall": {
+      "EUen name": "Snowball"
+    },
+    "BrokenSnowBallForDrake": {
+      "EUen name": "Snowball"
+    },
+    "Cave_LanayruMountain_0008_StoneBall": {
+      "EUen name": "Stone Ball"
+    },
+    "DgnObj_BoardFloat_A": {
+      "EUen name": "Board"
+    },
+    "DgnObj_BoardIron_A": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_BoardIron_E": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_BoardIron_E_Cart": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_BoardIron_E_Cart_02": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_BoardLight_A": {
+      "EUen name": "Wire Mesh"
+    },
+    "DgnObj_BoardStone_A": {
+      "EUen name": "Board"
+    },
+    "DgnObj_BoardStone_B": {
+      "EUen name": "Board"
+    },
+    "DgnObj_BoardWood_A": {
+      "EUen name": "Board"
+    },
+    "DgnObj_BoxNet_A": {
+      "EUen name": "Metal Mesh Block"
+    },
+    "DgnObj_BoxStone_A": {
+      "EUen name": null
+    },
+    "DgnObj_Candle": {
+      "EUen name": "Candle"
+    },
+    "DgnObj_Dish_A_01": {
+      "EUen name": "Bowl"
+    },
+    "DgnObj_ElectricBoxStone_A_02": {
+      "EUen name": "Stone Block"
+    },
+    "DgnObj_ElectricPot_A_LL_Act_01": {
+      "EUen name": "Pot"
+    },
+    "DgnObj_ElectricStoneBoard_A_01": {
+      "EUen name": "Stone Slab"
+    },
+    "DgnObj_ElectricStoneBoard_A_02": {
+      "EUen name": "Stone Slab"
+    },
+    "DgnObj_ElectricSwitchCapstan_A_02": {
+      "EUen name": "Pole"
+    },
+    "DgnObj_Fire_Train_A_01": {
+      "EUen name": "Mine Cart"
+    },
+    "DgnObj_FloatingWater_A_01": {
+      "EUen name": "Water Globule"
+    },
+    "DgnObj_FloatingWater_A_01_ForAttachment": {
+      "EUen name": "Water Globule"
+    },
+    "DgnObj_FloatingWater_A_02": {
+      "EUen name": "Water Globule"
+    },
+    "DgnObj_FloatingWater_A_02_ForAttachment": {
+      "EUen name": "Water Globule"
+    },
+    "DgnObj_Float_A_01": {
+      "EUen name": "Float"
+    },
+    "DgnObj_IceBlock": {
+      "EUen name": "Ice"
+    },
+    "DgnObj_LargeDungeonWind_Debris_A_01": {
+      "EUen name": "Stone Shard"
+    },
+    "DgnObj_LargeDungeonWind_Grate_A_01": {
+      "EUen name": "Lattice"
+    },
+    "DgnObj_MetalBarrel_A": {
+      "EUen name": "Barrel"
+    },
+    "DgnObj_Motor_A_01": {
+      "EUen name": "Motor"
+    },
+    "DgnObj_PropellerAndWind": {
+      "EUen name": "Propeller"
+    },
+    "DgnObj_SecretBox_A": {
+      "EUen name": "Stone Box"
+    },
+    "DgnObj_SeesawExtend_A": {
+      "EUen name": null
+    },
+    "DgnObj_Small_BarrelBomb_A_01": {
+      "EUen name": "Bomb Barrel"
+    },
+    "DgnObj_Small_BarrelBomb_A_02": {
+      "EUen name": "Bomb Barrel"
+    },
+    "DgnObj_Small_BoardIron_A_04": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_Small_BoardNet_A_02": {
+      "EUen name": "Lattice"
+    },
+    "DgnObj_Small_BoardNet_A_04": {
+      "EUen name": "Wire Mesh"
+    },
+    "DgnObj_Small_BoardNet_A_05": {
+      "EUen name": "Wire Mesh"
+    },
+    "DgnObj_Small_BoardStone_A_02": {
+      "EUen name": "Stone Slab"
+    },
+    "DgnObj_Small_BoardStone_A_03": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardStone_A_04": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardStone_A_06": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardStone_A_07": {
+      "EUen name": "Stone Slab"
+    },
+    "DgnObj_Small_BoardWood_B_02": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardWood_B_03": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardWood_B_04": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoardWood_B_05": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_BoxIron_B_03": {
+      "EUen name": "Iron Box"
+    },
+    "DgnObj_Small_BoxIron_B_04": {
+      "EUen name": "Iron Box"
+    },
+    "DgnObj_Small_BoxIron_B_06": {
+      "EUen name": "Iron Box"
+    },
+    "DgnObj_Small_BoxStone_A_02": {
+      "EUen name": "Stone Box"
+    },
+    "DgnObj_Small_BoxStone_A_03": {
+      "EUen name": "Stone Box"
+    },
+    "DgnObj_Small_BoxStone_A_04": {
+      "EUen name": "Stone Box"
+    },
+    "DgnObj_Small_BoxWood_A_02": {
+      "EUen name": "Wooden Box"
+    },
+    "DgnObj_Small_floatFortParts_A_01": {
+      "EUen name": "Raft"
+    },
+    "DgnObj_Small_floatFortParts_A_02": {
+      "EUen name": "Column"
+    },
+    "DgnObj_Small_floatFortParts_A_03": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_floatFortParts_A_04": {
+      "EUen name": "Column"
+    },
+    "DgnObj_Small_Grate_A_01": {
+      "EUen name": "Lattice"
+    },
+    "DgnObj_Small_IronBall_02": {
+      "EUen name": null
+    },
+    "DgnObj_Small_IronBall_03": {
+      "EUen name": null
+    },
+    "DgnObj_Small_IronBall_04": {
+      "EUen name": null
+    },
+    "DgnObj_Small_IronBall_05": {
+      "EUen name": null
+    },
+    "DgnObj_Small_IronStick_A_01": {
+      "EUen name": null
+    },
+    "DgnObj_Small_Lift_A_01": {
+      "EUen name": "Lift"
+    },
+    "DgnObj_Small_PuzzleBlock_A_01": {
+      "EUen name": "Block"
+    },
+    "DgnObj_Small_PuzzleBlock_A_02": {
+      "EUen name": "Block"
+    },
+    "DgnObj_Small_PuzzleBlock_A_03": {
+      "EUen name": "Block"
+    },
+    "DgnObj_Small_PuzzleRing_A_01": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_Small_PuzzleRing_B_01": {
+      "EUen name": "Metal Plate"
+    },
+    "DgnObj_Small_RaftWood_A_01": {
+      "EUen name": "Raft"
+    },
+    "DgnObj_Small_SpikeDynamic_A_01": {
+      "EUen name": "Spikes"
+    },
+    "DgnObj_Small_StoneBallL_02": {
+      "EUen name": "Stone Ball"
+    },
+    "DgnObj_Small_StonePole_A_01": {
+      "EUen name": "Pole"
+    },
+    "DgnObj_Small_StonePole_A_02": {
+      "EUen name": "Pole"
+    },
+    "DgnObj_Small_StonePole_A_03": {
+      "EUen name": "Pole"
+    },
+    "DgnObj_Small_WaterWheel_A_02": {
+      "EUen name": "Board"
+    },
+    "DgnObj_Small_WoodPole_A_02": {
+      "EUen name": "Log"
+    },
+    "DgnObj_SpikeBallWood_A": {
+      "EUen name": "Spikes"
+    },
+    "DgnObj_SpikeBall_A": {
+      "EUen name": "Spiked Iron Ball"
+    },
+    "DgnObj_SpikeBall_B": {
+      "EUen name": "Spiked Iron Ball"
+    },
+    "DgnObj_StoneBall_Fire": {
+      "EUen name": "Flame Ball"
+    },
+    "DgnObj_StoneBall_NoFire": {
+      "EUen name": null
+    },
+    "DgnObj_StoneBarrel_A": {
+      "EUen name": "Barrel"
+    },
+    "DgnObj_SwitchElectric_Dynamic": {
+      "EUen name": "Battery"
+    },
+    "DgnObj_Train_A_01": {
+      "EUen name": "Mine Cart"
+    },
+    "DgnObj_Train_A_02": {
+      "EUen name": "Mine Cart"
+    },
+    "DgnObj_WoodPole_A": {
+      "EUen name": "Log"
+    },
+    "Drake_Icicle": {
+      "EUen name": "Icicle"
+    },
+    "Drake_IcicleForAttachment": {
+      "EUen name": "Icicle"
+    },
+    "DungeonBoss_Goron_Rock_Weapon": {
+      "EUen name": "Gloom Rock"
+    },
+    "DungeonBoss_Goron_Rock_Weapon_Large": {
+      "EUen name": null
+    },
+    "FldObj_DeathMtArtifactTrain_A_02": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_A_03": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_A_03_BP": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_B_01": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_B_01_MiniGame": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_B_02": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_DeathMtArtifactTrain_B_02_BP": {
+      "EUen name": "Mine Cart"
+    },
+    "FldObj_EnemyLookoutBanana_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "FldObj_FallingRock_A_01": {
+      "EUen name": "Boulder"
+    },
+    "FldObj_FallingRock_A_02": {
+      "EUen name": "Boulder"
+    },
+    "FldObj_FallingRock_B_01": {
+      "EUen name": "Boulder"
+    },
+    "FldObj_FallingRock_B_02": {
+      "EUen name": "Boulder"
+    },
+    "FldObj_PushRockIron_A_M_01": {
+      "EUen name": "Iron Lump"
+    },
+    "FldObj_PushRock_A_M_01": {
+      "EUen name": "Boulder"
+    },
+    "FldObj_ScaffoldWood_A_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "FldObj_SignboardWood_A_01_Trunk": {
+      "EUen name": null
+    },
+    "FldObj_SignboardWood_A_02_Trunk": {
+      "EUen name": "Signboard"
+    },
+    "FldObj_ZonauFallingParts_B_Block_Fall_A_01": {
+      "EUen name": "Ruins Rubble"
+    },
+    "IceWall_Piece": {
+      "EUen name": "Ice"
+    },
+    "IronBall": {
+      "EUen name": "Iron Ball"
+    },
+    "IronBall_Light": {
+      "EUen name": null
+    },
+    "Item_Enemy_137": {
+      "EUen name": "Stone Talus Heart"
+    },
+    "Item_Enemy_138": {
+      "EUen name": "Luminous Stole Talus Heart"
+    },
+    "Item_Enemy_139": {
+      "EUen name": "Rare Stone Talus Heart"
+    },
+    "Item_Enemy_140": {
+      "EUen name": "Igneo Talus Heart"
+    },
+    "Item_Enemy_141": {
+      "EUen name": "Frost Talus Heart"
+    },
+    "Item_Enemy_220": {
+      "EUen name": "Colgera Jaw"
+    },
+    "Item_Enemy_221": {
+      "EUen name": "Marbled Gohma Leg"
+    },
+    "Item_Enemy_223": {
+      "EUen name": "Queen Gibdo Wing"
+    },
+    "Item_Enemy_225": {
+      "EUen name": "Flux Construct I Core"
+    },
+    "Item_Enemy_226": {
+      "EUen name": "Flux Construct II Core"
+    },
+    "Item_Enemy_227": {
+      "EUen name": "Flux Construct III Core"
+    },
+    "Item_Plant_A": {
+      "EUen name": null
+    },
+    "Item_Plant_B": {
+      "EUen name": null
+    },
+    "Item_Plant_B_TemporaryOwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_C": {
+      "EUen name": null
+    },
+    "Item_Plant_C_TemporaryOwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_E": {
+      "EUen name": null
+    },
+    "Item_Plant_F": {
+      "EUen name": null
+    },
+    "Item_Plant_G": {
+      "EUen name": null
+    },
+    "Item_Plant_H": {
+      "EUen name": null
+    },
+    "Item_Plant_I": {
+      "EUen name": null
+    },
+    "Item_Plant_I_OwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_J": {
+      "EUen name": null
+    },
+    "Item_Plant_J_OwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_L": {
+      "EUen name": null
+    },
+    "Item_Plant_M": {
+      "EUen name": null
+    },
+    "Item_Plant_M_OwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_M_TemporaryOwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_O": {
+      "EUen name": null
+    },
+    "Item_Plant_Q": {
+      "EUen name": null
+    },
+    "Item_Plant_Q_TemporaryOwnedByNpc": {
+      "EUen name": null
+    },
+    "Item_Plant_R": {
+      "EUen name": null
+    },
+    "Item_Plant_R_Kakariko008": {
+      "EUen name": null
+    },
+    "Item_Plant_S": {
+      "EUen name": null
+    },
+    "KibakoDesert_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoDungeon": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoGerudo_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoJungle_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoSeaside_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoSky_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoSnowMountain_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoVolcano_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "KibakoZora_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "Kibako_Contain_01": {
+      "EUen name": "Wooden Box"
+    },
+    "Kibako_Contain_01_NoRespawn": {
+      "EUen name": "Wooden Box"
+    },
+    "LikeLikeRock": {
+      "EUen name": "Boulder"
+    },
+    "LikeLikeRock_ForAttachment": {
+      "EUen name": "Boulder"
+    },
+    "MiniGame_Basketball_Ball": {
+      "EUen name": "Ball"
+    },
+    "MiniGame_Basketball_Ball_HighScore": {
+      "EUen name": "Ball"
+    },
+    "MinusObj_TreeGeneralleaf_A_01_Treant_ForAttachment": {
+      "EUen name": "Evermean Log"
+    },
+    "MinusObj_TreeGeneralleaf_A_01_Trent_Trunk": {
+      "EUen name": "Evermean Log"
+    },
+    "MinusObj_TreeGeneralleaf_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_B_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_B_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_C_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_C_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_D_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "MinusObj_TreeGeneralleaf_D_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "MinusObj_UDSpot_StoneBoard_B_01": {
+      "EUen name": "Stone Slab"
+    },
+    "Obj_ArmorSpike_A": {
+      "EUen name": "Armor Shard"
+    },
+    "Obj_ArmorSpike_B": {
+      "EUen name": "Armor Shard"
+    },
+    "Obj_BarrelOld_A_01": {
+      "EUen name": "Barrel"
+    },
+    "Obj_BoardIron_A_01": {
+      "EUen name": "Board"
+    },
+    "Obj_BoxIron_A_M_01": {
+      "EUen name": "Iron Box"
+    },
+    "Obj_BoxIron_B_2x2x2_01": {
+      "EUen name": "Iron Box"
+    },
+    "Obj_BoxIron_B_M_01": {
+      "EUen name": "Iron Box"
+    },
+    "Obj_BoxIron_MtDeath": {
+      "EUen name": "Iron Box"
+    },
+    "Obj_BreakBoxIron": {
+      "EUen name": "Iron Box"
+    },
+    "Obj_CageIron_A_01": {
+      "EUen name": "Cage"
+    },
+    "Obj_DesertRuinTomb_A_01": {
+      "EUen name": "Stone Slab"
+    },
+    "Obj_EnemyLookoutBanana_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_FallFloor_A_01": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_02": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_03": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_04": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_05": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_06": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_07": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_10": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_11": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_12": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_13": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_14": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_A_15": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_FallFloor_HyruleCastle_A_01": {
+      "EUen name": "Stone Shard"
+    },
+    "Obj_FallFloor_HyruleCastle_A_02": {
+      "EUen name": "Stone Shard"
+    },
+    "Obj_FallFloor_HyruleCastle_A_03": {
+      "EUen name": "Stone Shard"
+    },
+    "Obj_FallFloor_HyruleCastle_A_04": {
+      "EUen name": "Stone Shard"
+    },
+    "Obj_FallFloor_HyruleCastle_B_02": {
+      "EUen name": "Stone Shard"
+    },
+    "Obj_FreezeBoard_A_01": {
+      "EUen name": "Metal Plate"
+    },
+    "Obj_FreezeBoard_A_02": {
+      "EUen name": "Ice"
+    },
+    "Obj_GerudoHoleCover_A_01": {
+      "EUen name": "Stone Slab"
+    },
+    "Obj_GerudoHoleCover_A_02": {
+      "EUen name": "Desk"
+    },
+    "Obj_GerudoHoleCover_A_03": {
+      "EUen name": "Sand-Seal Statue"
+    },
+    "Obj_HardLavaBlock_A_01": {
+      "EUen name": "Metal Plate"
+    },
+    "Obj_HardLavaBlock_A_02": {
+      "EUen name": "Metal Plate"
+    },
+    "Obj_LiftRockEldin_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_LiftRockEldin_Korok_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_LiftRockGerudo_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_LiftRockGerudo_Korok_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_LiftRockWhite_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_LiftRockWhite_Korok_A_01": {
+      "EUen name": "Rock"
+    },
+    "Obj_MeatRock": {
+      "EUen name": "Rock Roast"
+    },
+    "Obj_MeatRock_Miasma_A_01": {
+      "EUen name": "Marbled Rock Roast"
+    },
+    "Obj_ScaffoldWood_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_SheikerWakkaCharm_A_01": {
+      "EUen name": "Ring Garland"
+    },
+    "Obj_SheikerWakkaCharm_A_02": {
+      "EUen name": null
+    },
+    "Obj_SheikerWakkaCharm_A_03": {
+      "EUen name": null
+    },
+    "Obj_ShieldFenceWood_A_M_01": {
+      "EUen name": "Barricade"
+    },
+    "Obj_ShieldFenceWood_A_M_02": {
+      "EUen name": "Barricade"
+    },
+    "Obj_ShieldFenceWood_A_M_03": {
+      "EUen name": "Barricade"
+    },
+    "Obj_SkyFallenBox_A_01": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_SkyFallenBox_A_02": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_SkyFallenBox_A_03": {
+      "EUen name": "Ruins Rubble"
+    },
+    "Obj_SpikeBall_B": {
+      "EUen name": "Spiked Iron Ball"
+    },
+    "Obj_SpikeBall_B_Mercenary": {
+      "EUen name": "Spiked Iron Ball"
+    },
+    "Obj_TreeApple_A_L_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeApple_A_L_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeApple_A_M_01_Treant_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeApple_A_M_01_Trunk": {
+      "EUen name": null
+    },
+    "Obj_TreeBanana_A_01_Trunk": {
+      "EUen name": null
+    },
+    "Obj_TreeBroadleafDead_B_L_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeBroadleaf_A_L_Treant_Trunk": {
+      "EUen name": "Evermean Log"
+    },
+    "Obj_TreeBroadleaf_A_L_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeBroadleaf_A_L_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeBurned_A_01_Trunk": {
+      "EUen name": null
+    },
+    "Obj_TreeBurned_A_01_Trunk_Aligned": {
+      "EUen name": null
+    },
+    "Obj_TreeBurned_B_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeBurned_B_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferousDead_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferousDead_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferousDead_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferousDead_A_Snow_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferousDead_A_Snow_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_Snow_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_Snow_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_Snow_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_A_Snow_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_C_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_C_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_C_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeConiferous_C_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeDeadLeaf_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeDead_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeDead_A_Snow_01_Trunk": {
+      "EUen name": null
+    },
+    "Obj_TreeDragonblood_A_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeGeneralleaf_C_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeGeneralleaf_D_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeGhost_A_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_B_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_B_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_C_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeMaple_C_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalmBeach_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalmBeach_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalmBeach_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalmBeach_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalm_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePalm_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreePine_A_01_Trunk": {
+      "EUen name": null
+    },
+    "Obj_TreeSkyApple_A_L_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyApple_A_L_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyApple_A_M_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyBroadleaf_A_L_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyBroadleaf_A_L_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyBroadleaf_A_L_Trunk_NoDamage": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeSkyDead_A_Snow_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_01_Trunk_Aligned": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_02_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_03_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteBirch_A_04_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWhiteWood_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWillow_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWillow_A_01_Trunk": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWood_A_01_ForAttachment": {
+      "EUen name": "Log"
+    },
+    "Obj_TreeWood_A_L_Treant_ForAttachment": {
+      "EUen name": "Evermean Log"
+    },
+    "Obj_Tumbleweed_A_01": {
+      "EUen name": "Tumbleweed"
+    },
+    "Obj_Village_IchikaraEnokidaCutout_A_01": {
+      "EUen name": "President Hudson Cutout"
+    },
+    "Obj_Village_IchikaraEnokidaCutout_A_02": {
+      "EUen name": null
+    },
+    "Pot": {
+      "EUen name": "Pot"
+    },
+    "RockBall": {
+      "EUen name": null
+    },
+    "RockRollA": {
+      "EUen name": null
+    },
+    "SkyObj_Pot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "SkyObj_Pot_A_S_Act_01": {
+      "EUen name": "Pot"
+    },
+    "SkyObj_Remains_Block_Fall_A_01": {
+      "EUen name": "Ruins Rubble"
+    },
+    "SkyObj_Rito_Block_Fall_A_01": {
+      "EUen name": "Ruins Rubble"
+    },
+    "SmokeFuit_Static": {
+      "EUen name": null
+    },
+    "SpObj_BalloonEnvelope_A_01": {
+      "EUen name": "Balloon"
+    },
+    "SpObj_BalloonEnvelope_A_05": {
+      "EUen name": null
+    },
+    "SpObj_BalloonEnvelope_A_06": {
+      "EUen name": null
+    },
+    "SpObj_BalloonEnvelope_Capsule_A_01": {
+      "EUen name": "Balloon"
+    },
+    "SpObj_Beamos_A_01": {
+      "EUen name": "Beam Emitter"
+    },
+    "SpObj_Beamos_Capsule_A_01": {
+      "EUen name": "Beam Emitter"
+    },
+    "SpObj_Cannon_A_01": {
+      "EUen name": "Cannon"
+    },
+    "SpObj_Cannon_Capsule_A_01": {
+      "EUen name": "Cannon"
+    },
+    "SpObj_Cart_A_01": {
+      "EUen name": "Cart"
+    },
+    "SpObj_Cart_Capsule_A_01": {
+      "EUen name": "Cart"
+    },
+    "SpObj_Chaser_A_01": {
+      "EUen name": "Homing Cart"
+    },
+    "SpObj_Chaser_Capsule_A_01": {
+      "EUen name": "Homing Cart"
+    },
+    "SpObj_ControlStick_A_01": {
+      "EUen name": "Steering Stick"
+    },
+    "SpObj_ControlStick_A_02": {
+      "EUen name": null
+    },
+    "SpObj_ControlStick_A_03": {
+      "EUen name": null
+    },
+    "SpObj_ControlStick_Capsule_A_01": {
+      "EUen name": "Steering Stick"
+    },
+    "SpObj_CookSetOnFire_A_01": {
+      "EUen name": "Portable Pot"
+    },
+    "SpObj_CookSet_Capsule_A_01": {
+      "EUen name": "Portable Pot"
+    },
+    "SpObj_ElectricBoxGenerator": {
+      "EUen name": "Shock Emitter"
+    },
+    "SpObj_ElectricBoxGenerator_Capsule_A_01": {
+      "EUen name": "Shock Emitter"
+    },
+    "SpObj_EnergyBank_A_01": {
+      "EUen name": "Battery"
+    },
+    "SpObj_EnergyBank_A_02": {
+      "EUen name": "Big Battery"
+    },
+    "SpObj_EnergyBank_Capsule_A_01": {
+      "EUen name": "Battery"
+    },
+    "SpObj_EnergyBank_Capsule_A_02": {
+      "EUen name": "Big Battery"
+    },
+    "SpObj_FastWheel_A_01": {
+      "EUen name": "Small Wheel"
+    },
+    "SpObj_FastWheel_Capsule_A_01": {
+      "EUen name": "Small Wheel"
+    },
+    "SpObj_FastWheel_Capsule_B_01": {
+      "EUen name": "Big Wheel"
+    },
+    "SpObj_FlameThrower_A_01": {
+      "EUen name": "Flame Emitter"
+    },
+    "SpObj_FlameThrower_Capsule_A_01": {
+      "EUen name": "Flame Emitter"
+    },
+    "SpObj_FlashLight_A_01": {
+      "EUen name": "Light"
+    },
+    "SpObj_FlashLight_A_02": {
+      "EUen name": null
+    },
+    "SpObj_FlashLight_Capsule_A_01": {
+      "EUen name": "Light"
+    },
+    "SpObj_FloatingStone_A_01": {
+      "EUen name": "Hover Stone"
+    },
+    "SpObj_FloatingStone_Capsule_A_01": {
+      "EUen name": "Hover Stone"
+    },
+    "SpObj_GolemHead_A_01": {
+      "EUen name": "Construct Head"
+    },
+    "SpObj_GolemHead_Capsule_A_01": {
+      "EUen name": "Construct Head"
+    },
+    "SpObj_LiftableWaterPump_Capsule_A_01": {
+      "EUen name": "Hydrant"
+    },
+    "SpObj_LiftGeneratorWing_A_01": {
+      "EUen name": "Wing"
+    },
+    "SpObj_LiftGeneratorWing_A_01_MiniGame": {
+      "EUen name": null
+    },
+    "SpObj_LiftGeneratorWing_Capsule_A_01": {
+      "EUen name": "Wing"
+    },
+    "SpObj_LightMirror_A_01": {
+      "EUen name": "Mirror"
+    },
+    "SpObj_LightMirror_Capsule_A_01": {
+      "EUen name": "Mirror"
+    },
+    "SpObj_Pile_A_01": {
+      "EUen name": "Stake"
+    },
+    "SpObj_Pile_Capsule_A_01": {
+      "EUen name": "Stake"
+    },
+    "SpObj_Rocket_A_01": {
+      "EUen name": "Rocket"
+    },
+    "SpObj_Rocket_Capsule_A_01": {
+      "EUen name": "Rocket"
+    },
+    "SpObj_SlipBoard_A_01": {
+      "EUen name": "Sled"
+    },
+    "SpObj_SlipBoard_Capsule_A_01": {
+      "EUen name": "Sled"
+    },
+    "SpObj_SnowMachine_A_01": {
+      "EUen name": "Frost Emitter"
+    },
+    "SpObj_SnowMachine_Capsule_A_01": {
+      "EUen name": "Frost Emitter"
+    },
+    "SpObj_SpringPiston_A_01": {
+      "EUen name": "Spring"
+    },
+    "SpObj_SpringPiston_Capsule_A_01": {
+      "EUen name": "Spring"
+    },
+    "SpObj_SwitchWheel_B_01": {
+      "EUen name": "Big Wheel"
+    },
+    "SpObj_TiltingDoll_A_01": {
+      "EUen name": "Stabilizer"
+    },
+    "SpObj_TiltingDoll_Capsule_A_01": {
+      "EUen name": "Stabilizer"
+    },
+    "SpObj_TimerBomb_A_01": {
+      "EUen name": "Time Bomb"
+    },
+    "SpObj_TimerBomb_Capsule_A_01": {
+      "EUen name": "Time Bomb"
+    },
+    "SpObj_WaterPump_A_01": {
+      "EUen name": "Hydrant"
+    },
+    "SpObj_WindGenerator_A_01": {
+      "EUen name": "Fan"
+    },
+    "SpObj_WindGenerator_A_03": {
+      "EUen name": null
+    },
+    "SpObj_WindGenerator_Capsule_A_01": {
+      "EUen name": "Fan"
+    },
+    "StoneBall": {
+      "EUen name": "Stone Ball"
+    },
+    "TimerBarrelBomb": {
+      "EUen name": "Time Bomb"
+    },
+    "TwnObj_City_GerudoPot_A_LL_Act_02": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_City_GerudoPot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_City_GerudoPot_A_S_Act_01": {
+      "EUen name": null
+    },
+    "TwnObj_City_GerudoWoodBox_B_01": {
+      "EUen name": "Wooden Box"
+    },
+    "TwnObj_City_GoronPot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_GerudoDollBlue_A_02": {
+      "EUen name": "Blue-Seal Toy"
+    },
+    "TwnObj_GerudoDollBlue_A_02_CollectObject": {
+      "EUen name": null
+    },
+    "TwnObj_GerudoDollGreen_A_02": {
+      "EUen name": "Green-Seal Toy"
+    },
+    "TwnObj_GerudoDollSmallGreen_A_01": {
+      "EUen name": "Green-Seal Toy"
+    },
+    "TwnObj_GerudoDollSmallGreen_A_01_CollectObject": {
+      "EUen name": null
+    },
+    "TwnObj_GerudoDollSmallGreen_A_01_FindSunaNui": {
+      "EUen name": null
+    },
+    "TwnObj_GerudoDollSmallRed_A_01": {
+      "EUen name": "Red-Seal Toy"
+    },
+    "TwnObj_GerudoDollSmallRed_A_01_CollectObject": {
+      "EUen name": null
+    },
+    "TwnObj_HyruleCastleObject_BookShelf_Iron_A_01": {
+      "EUen name": "Bookcase"
+    },
+    "TwnObj_HyruleCastleObject_Shelf_A_01": {
+      "EUen name": "Metal Plate"
+    },
+    "TwnObj_Village_FishingPot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_Fishing_Boat_A_02": {
+      "EUen name": "Boat"
+    },
+    "TwnObj_Village_Fishing_Boat_A_02_ForAttachment": {
+      "EUen name": null
+    },
+    "TwnObj_Village_HatenoGuidePost_A_01_Trunk": {
+      "EUen name": null
+    },
+    "TwnObj_Village_HatenoPot_A_L_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_HatenoPot_A_M_Act_01": {
+      "EUen name": null
+    },
+    "TwnObj_Village_HatenoPot_A_S_Act_01": {
+      "EUen name": null
+    },
+    "TwnObj_Village_HatenoSchoolSignboard_A_01_Trunk": {
+      "EUen name": "Signboard"
+    },
+    "TwnObj_Village_KorokPot_A_S_Act_01": {
+      "EUen name": null
+    },
+    "TwnObj_Village_RitoPot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_RitoPot_A_M_Act_02": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_RitoPot_A_S_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_RitoPot_A_S_Act_02": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_SheikerPot_A_LL_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_SheikerPot_A_L_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_SheikerPot_A_M_Act_02": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_SheikerPot_A_S_Act_01": {
+      "EUen name": "Pot"
+    },
+    "TwnObj_Village_ZoraPot_A_M_Act_01": {
+      "EUen name": "Pot"
+    },
+    "Weapon_Shield_001_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_002_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_031_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_032_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_034_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_035_NoBurned": {
+      "EUen name": null
+    },
+    "Weapon_Shield_042_NoBurned": {
+      "EUen name": null
+    },
+    "WoodBall_Golf": {
+      "EUen name": "Ball"
+    },
+    "Zonau_BlockMaster_Block": {
+      "EUen name": "Block"
+    },
+    "Zonau_BlockMaster_Block_ForAttachment": {
+      "EUen name": "Block"
+    },
+    "Zonau_BlockMaster_Block_Middle": {
+      "EUen name": "Block"
+    },
+    "Zonau_BlockMaster_Block_Middle_ForAttachment": {
+      "EUen name": "Block"
+    },
+    "Zonau_BlockMaster_Block_Senior": {
+      "EUen name": "Block"
+    },
+    "Zonau_BlockMaster_Block_Senior_ForAttachment": {
+      "EUen name": "Block"
+    },
+    "Item_Boiled_01": {
+      "EUen name": "Hard-Boiled Egg"
+    },
+    "Item_Chilled_01": {
+      "EUen name": "Icy Meat"
+    },
+    "Item_Chilled_02": {
+      "EUen name": "Icy Prime Meat"
+    },
+    "Item_Chilled_03": {
+      "EUen name": "Icy Gourmet Meat"
+    },
+    "Item_Chilled_04": {
+      "EUen name": "Frozen Bird Dumstick"
+    },
+    "Item_Chilled_05": {
+      "EUen name": "Frozen Bird Thigh"
+    },
+    "Item_Chilled_06": {
+      "EUen name": "Frozen Whole Bird"
+    },
+    "Item_ChilledFish_01": {
+      "EUen name": "Frozen Bass"
+    },
+    "Item_ChilledFish_02": {
+      "EUen name": "Frozen Hearty Salmon"
+    },
+    "Item_ChilledFish_03": {
+      "EUen name": "Frozen Trout"
+    },
+    "Item_ChilledFish_04": {
+      "EUen name": "Frozen Carp"
+    },
+    "Item_ChilledFish_05": {
+      "EUen name": "Frozen Porgy"
+    },
+    "Item_ChilledFish_06": {
+      "EUen name": "Frozen Hearty Bass"
+    },
+    "Item_ChilledFish_07": {
+      "EUen name": "Frozen Crab"
+    },
+    "Item_ChilledFish_08": {
+      "EUen name": "Frozen River Snail"
+    },
+    "Item_ChilledFish_16": {
+      "EUen name": "Frozen Arowana"
+    },
+    "Item_ChilledFish_18": {
+      "EUen name": "Frozen Cave Fish"
+    },
+    "Item_Roast_01": {
+      "EUen name": "Seared Steak"
+    },
+    "Item_Roast_02": {
+      "EUen name": "Roasted Bird Drumstick"
+    },
+    "Item_Roast_03": {
+      "EUen name": "Baked Apple"
+    },
+    "Item_Roast_04": {
+      "EUen name": "Toasty Stamella Shroom"
+    },
+    "Item_Roast_05": {
+      "EUen name": "Toasted Hearty Truffle"
+    },
+    "Item_Roast_06": {
+      "EUen name": "Toasty Hylian Shroom"
+    },
+    "Item_Roast_07": {
+      "EUen name": "Roasted Wildberry"
+    },
+    "Item_Roast_08": {
+      "EUen name": "Roasted Voltfruit"
+    },
+    "Item_Roast_10": {
+      "EUen name": "Baked Palm Fruit"
+    },
+    "Item_Roast_11": {
+      "EUen name": "Roasted Mighty Bananas"
+    },
+    "Item_Roast_12": {
+      "EUen name": "Roasted Hydromelon"
+    },
+    "Item_Roast_13": {
+      "EUen name": "Charred Pepper"
+    },
+    "Item_Roast_15": {
+      "EUen name": "Baked Fortified Pumpkin"
+    },
+    "Item_Roast_16": {
+      "EUen name": "Roasted Lotus Seeds"
+    },
+    "Item_Roast_18": {
+      "EUen name": "Roasted Radish"
+    },
+    "Item_Roast_19": {
+      "EUen name": "Roasted Big Radish"
+    },
+    "Item_Roast_24": {
+      "EUen name": "Roasted Swift Carrot"
+    },
+    "Item_Roast_27": {
+      "EUen name": "Roasted Mighty Thistle"
+    },
+    "Item_Roast_28": {
+      "EUen name": "Roasted Armoranth"
+    },
+    "Item_Roast_31": {
+      "EUen name": "Toasty Chillshroom"
+    },
+    "Item_Roast_32": {
+      "EUen name": "Toasty Sunshroom"
+    },
+    "Item_Roast_33": {
+      "EUen name": "Toasty Zapshroom"
+    },
+    "Item_Roast_36": {
+      "EUen name": "Toasty Rushroom"
+    },
+    "Item_Roast_37": {
+      "EUen name": "Toasty Razorshroom"
+    },
+    "Item_Roast_38": {
+      "EUen name": "Toasty Ironshroom"
+    },
+    "Item_Roast_39": {
+      "EUen name": "Toasty Silent Shroom"
+    },
+    "Item_Roast_40": {
+      "EUen name": "Seared Prime Steak"
+    },
+    "Item_Roast_41": {
+      "EUen name": "Roasted Bird Thigh"
+    },
+    "Item_Roast_45": {
+      "EUen name": "Seared Gourmet Steak"
+    },
+    "Item_Roast_46": {
+      "EUen name": "Roasted Whole Bird"
+    },
+    "Item_Roast_48": {
+      "EUen name": "Roasted Acorn"
+    },
+    "Item_Roast_49": {
+      "EUen name": "Toasted Big Hearty Truffle"
+    },
+    "Item_Roast_50": {
+      "EUen name": "Roasted Endura Carrot"
+    },
+    "Item_Roast_51": {
+      "EUen name": "Campfire Egg"
+    },
+    "Item_Roast_52": {
+      "EUen name": "Roasted Tree Nut"
+    },
+    "Item_Roast_53": {
+      "EUen name": "Toasty Endura Shroom"
+    },
+    "Item_Roast_54": {
+      "EUen name": "Roasted Hylian Tomato"
+    },
+    "Item_Roast_55": {
+      "EUen name": "Baked Sun Pumpkin"
+    },
+    "Item_Roast_56": {
+      "EUen name": "Toasty Skyshroom"
+    },
+    "Item_Roast_58": {
+      "EUen name": "Toasty Brightcap"
+    },
+    "Item_Roast_59": {
+      "EUen name": "Baked Golden Apple"
+    },
+    "Item_RoastFish_01": {
+      "EUen name": "Roasted Bass"
+    },
+    "Item_RoastFish_02": {
+      "EUen name": "Roasted Hearty Bass"
+    },
+    "Item_RoastFish_03": {
+      "EUen name": "Roasted Trout"
+    },
+    "Item_RoastFish_04": {
+      "EUen name": "Roasted Hearty Salmon"
+    },
+    "Item_RoastFish_07": {
+      "EUen name": "Roasted Carp"
+    },
+    "Item_RoastFish_09": {
+      "EUen name": "Roasted Porgy"
+    },
+    "Item_RoastFish_13": {
+      "EUen name": "Sneaky River Escargot"
+    },
+    "Item_RoastFish_15": {
+      "EUen name": "Blackened Crab"
+    },
+    "Item_RoastFish_16": {
+      "EUen name": "Roasted Arowana"
+    },
+    "Item_RoastFish_18": {
+      "EUen name": "Roasted Cave Fish"
+    },
+    "Item_Cook_A_01": {
+      "EUen name": "Mushroom Skewer"
+    },
+    "Item_Cook_A_09": {
+      "EUen name": "Meat and Mushroom Skewer"
+    },
+    "Item_Cook_A_08": {
+      "EUen name": "Fish and Mushroom Skewer"
+    },
+    "Item_Cook_B_06": {
+      "EUen name": "Meat Skewer"
+    },
+    "Item_Cook_B_05": {
+      "EUen name": "Fish Skewer"
+    },
+    "Item_Cook_B_23": {
+      "EUen name": "Seafood Skewer"
+    },
+    "Item_Cook_B_16": {
+      "EUen name": "Copious Meat Skewers"
+    },
+    "Item_Cook_B_15": {
+      "EUen name": "Copious Seafood Skewers"
+    },
+    "Item_Cook_A_03": {
+      "EUen name": "Steamed Fruit"
+    },
+    "Item_Cook_Q_03": {
+      "EUen name": "Steamed Tomatoes"
+    },
+    "Item_Cook_A_02": {
+      "EUen name": "Steamed Mushrooms"
+    },
+    "Item_Cook_A_05": {
+      "EUen name": "Steamed Meat"
+    },
+    "Item_Cook_A_04": {
+      "EUen name": "Steamed Fish"
+    },
+    "Item_Cook_B_21": {
+      "EUen name": "Sautéed Peppers"
+    },
+    "Item_Cook_B_22": {
+      "EUen name": "Sautéed Nuts"
+    },
+    "Item_Cook_B_01": {
+      "EUen name": "Fried Wild Greens"
+    },
+    "Item_Cook_B_11": {
+      "EUen name": "Copious Fried Wild Greens"
+    },
+    "Item_Cook_Q_06": {
+      "EUen name": "Cooked Stambulb"
+    },
+    "Item_Cook_Q_07": {
+      "EUen name": "Buttered Stambulb"
+    },
+    "Item_Cook_B_13": {
+      "EUen name": "Copious Mushroom Skewers"
+    },
+    "Item_Cook_P_03": {
+      "EUen name": "Spiced Meat Skewer"
+    },
+    "Item_Cook_P_04": {
+      "EUen name": "Prime Spiced Meat Skewer"
+    },
+    "Item_Cook_P_05": {
+      "EUen name": "Gourmet Spiced Meat Skewer"
+    },
+    "Item_Cook_D_10": {
+      "EUen name": "Crab Stir-Fry"
+    },
+    "Item_Cook_B_17": {
+      "EUen name": "Meat and Seafood Fry"
+    },
+    "Item_Cook_B_18": {
+      "EUen name": "Prime Meat and Seafood Fry"
+    },
+    "Item_Cook_B_19": {
+      "EUen name": "Gourmet Meat and Seafood Fry"
+    },
+    "Item_Cook_D_02": {
+      "EUen name": "Salt-Grilled Greens"
+    },
+    "Item_Cook_D_01": {
+      "EUen name": "Salt-Grilled Mushrooms"
+    },
+    "Item_Cook_D_04": {
+      "EUen name": "Salt-Grilled Meat"
+    },
+    "Item_Cook_D_05": {
+      "EUen name": "Salt-Grilled Prime Meat"
+    },
+    "Item_Cook_D_06": {
+      "EUen name": "Salt-Grilled Gourmet Meat"
+    },
+    "Item_Cook_D_03": {
+      "EUen name": "Salt-Grilled Fish"
+    },
+    "Item_Cook_D_09": {
+      "EUen name": "Salt-Grilled Crab"
+    },
+    "Item_Cook_P_02": {
+      "EUen name": "Herb Sauté"
+    },
+    "Item_Cook_P_01": {
+      "EUen name": "Fragrant Mushroom Sauté"
+    },
+    "Item_Cook_D_07": {
+      "EUen name": "Pepper Steak"
+    },
+    "Item_Cook_D_08": {
+      "EUen name": "Pepper Seafood"
+    },
+    "Item_Cook_R_05": {
+      "EUen name": "Fragrant Seafood Stew"
+    },
+    "Item_Cook_R_06": {
+      "EUen name": "Deep-Fried Drumstick"
+    },
+    "Item_Cook_R_07": {
+      "EUen name": "Deep-Fried Thigh"
+    },
+    "Item_Cook_R_08": {
+      "EUen name": "Deep-Fried Bird Roast"
+    },
+    "Item_Cook_H_01": {
+      "EUen name": "Seafood Meunière"
+    },
+    "Item_Cook_H_02": {
+      "EUen name": "Porgy Meunière"
+    },
+    "Item_Cook_H_03": {
+      "EUen name": "Salmon Meunière"
+    },
+    "Item_Cook_A_07": {
+      "EUen name": "Fruit and Mushroom Mix"
+    },
+    "Item_Cook_B_02": {
+      "EUen name": "Simmered Fruits"
+    },
+    "Item_Cook_B_12": {
+      "EUen name": "Copious Simmered Fruits"
+    },
+    "Item_Cook_Q_01": {
+      "EUen name": "Simmered Tomato"
+    },
+    "Item_Cook_Q_02": {
+      "EUen name": "Fruity Tomato Stew"
+    },
+    "Item_Cook_Q_04": {
+      "EUen name": "Tomato Mushroom Stew"
+    },
+    "Item_Cook_Q_05": {
+      "EUen name": "Tomato Seafood Soup"
+    },
+    "Item_Cook_K_07": {
+      "EUen name": "Cream of Vegetable Soup"
+    },
+    "Item_Cook_F_03": {
+      "EUen name": "Veggie Cream Soup"
+    },
+    "Item_Cook_K_06": {
+      "EUen name": "Cream of Mushroom Soup"
+    },
+    "Item_Cook_F_01": {
+      "EUen name": "Creamy Meat Soup"
+    },
+    "Item_Cook_F_02": {
+      "EUen name": "Creamy Seefood Soup"
+    },
+    "Item_Cook_K_04": {
+      "EUen name": "Snail Chowder"
+    },
+    "Item_Cook_F_04": {
+      "EUen name": "Creamy Heart Soup"
+    },
+    "Item_Cook_A_14": {
+      "EUen name": "Glazed Veggies"
+    },
+    "Item_Cook_A_11": {
+      "EUen name": "Glazed Mushrooms"
+    },
+    "Item_Cook_A_12": {
+      "EUen name": "Glazed Meat"
+    },
+    "Item_Cook_A_13": {
+      "EUen name": "Glazed Seefood"
+    },
+    "Item_Cook_J_01": {
+      "EUen name": "Curry Rice"
+    },
+    "Item_Cook_J_02": {
+      "EUen name": "Vegetable Curry"
+    },
+    "Item_Cook_J_06": {
+      "EUen name": "Meat Curry"
+    },
+    "Item_Cook_J_07": {
+      "EUen name": "Prime Meat Curry"
+    },
+    "Item_Cook_J_09": {
+      "EUen name": "Gourmet Meat Curry"
+    },
+    "Item_Cook_J_04": {
+      "EUen name": "Poultry Curry"
+    },
+    "Item_Cook_J_05": {
+      "EUen name": "Prime Poultry Curry"
+    },
+    "Item_Cook_J_08": {
+      "EUen name": "Gourmet Poultry Curry"
+    },
+    "Item_Cook_J_03": {
+      "EUen name": "Seafood Curry"
+    },
+    "Item_Cook_S_01": {
+      "EUen name": "Cheesy Curry"
+    },
+    "Item_Cook_K_08": {
+      "EUen name": "Carrot Stew"
+    },
+    "Item_Cook_K_03": {
+      "EUen name": "Pumpkin Stew"
+    },
+    "Item_Cook_K_01": {
+      "EUen name": "Meat Stew"
+    },
+    "Item_Cook_K_02": {
+      "EUen name": "Prime Meat Stew"
+    },
+    "Item_Cook_K_05": {
+      "EUen name": "Gourmet Meat Stew"
+    },
+    "Item_Cook_B_20": {
+      "EUen name": "Meat-Stuffed Pumpkin"
+    },
+    "Item_Cook_G_13": {
+      "EUen name": "Vegetable Risotto"
+    },
+    "Item_Cook_G_12": {
+      "EUen name": "Mushroom Risotto"
+    },
+    "Item_Cook_G_14": {
+      "EUen name": "Salmon Risotto"
+    },
+    "Item_Cook_G_17": {
+      "EUen name": "Crab Risotto"
+    },
+    "Item_Cook_Q_10": {
+      "EUen name": "Cheesy Risotto"
+    },
+    "Item_Cook_E_01": {
+      "EUen name": "Poultry Pilaf"
+    },
+    "Item_Cook_E_02": {
+      "EUen name": "Prime Poultry Pilaf"
+    },
+    "Item_Cook_E_03": {
+      "EUen name": "Gourmet Poultry Pilaf"
+    },
+    "Item_Cook_N_01": {
+      "EUen name": "Seafood Paella"
+    },
+    "Item_Cook_G_11": {
+      "EUen name": "Curry Pilaf"
+    },
+    "Item_Cook_E_04": {
+      "EUen name": "Fried Egg and Rice"
+    },
+    "Item_Cook_Q_08": {
+      "EUen name": "Crunchy Fried Rice"
+    },
+    "Item_Cook_G_10": {
+      "EUen name": "Seafood Fried Rice"
+    },
+    "Item_Cook_G_16": {
+      "EUen name": "Crab Omelet with Rice"
+    },
+    "Item_Cook_G_05": {
+      "EUen name": "Meat and Rice Bowl"
+    },
+    "Item_Cook_G_06": {
+      "EUen name": "Prime Meat and Rice Bowl"
+    },
+    "Item_Cook_G_09": {
+      "EUen name": "Gourmet Meat and Rice Bowl"
+    },
+    "Item_Cook_S_02": {
+      "EUen name": "Cheesy Meat Bowl"
+    },
+    "Item_Cook_S_03": {
+      "EUen name": "Prime Cheesy Meat Bowl"
+    },
+    "Item_Cook_S_04": {
+      "EUen name": "Gourmet Cheesy Meat Bowl"
+    },
+    "Item_Cook_G_03": {
+      "EUen name": "Veggie Rice Balls"
+    },
+    "Item_Cook_G_04": {
+      "EUen name": "Mushroom Rice Balls"
+    },
+    "Item_Cook_G_15": {
+      "EUen name": "Meaty Rice Balls"
+    },
+    "Item_Cook_G_02": {
+      "EUen name": "Seafood Rice Balls"
+    },
+    "Item_Cook_R_02": {
+      "EUen name": "Veggie Porridge"
+    },
+    "Item_Cook_M_01": {
+      "EUen name": "Wheat Bread"
+    },
+    "Item_Cook_R_09": {
+      "EUen name": "Melty Cheesy Bread"
+    },
+    "Item_Cook_R_04": {
+      "EUen name": "Hylian Tomato Pizza"
+    },
+    "Item_Cook_I_04": {
+      "EUen name": "Meat Pie"
+    },
+    "Item_Cook_I_15": {
+      "EUen name": "Fish Pie"
+    },
+    "Item_Cook_S_10": {
+      "EUen name": "Cheesy Tomato"
+    },
+    "Item_Cook_R_10": {
+      "EUen name": "Cheesy Baked Fish"
+    },
+    "Item_Cook_A_10": {
+      "EUen name": "Omelet"
+    },
+    "Item_Cook_N_03": {
+      "EUen name": "Vegetable Omelet"
+    },
+    "Item_Cook_N_04": {
+      "EUen name": "Mushroom Omelet"
+    },
+    "Item_Cook_R_01": {
+      "EUen name": "Cheesy Omelette"
+    },
+    "Item_Cook_I_07": {
+      "EUen name": "Hot Buttered Apple"
+    },
+    "Item_Cook_I_09": {
+      "EUen name": "Honeyed Fruits"
+    },
+    "Item_Cook_I_08": {
+      "EUen name": "Honeyed Apple"
+    },
+    "Item_Cook_I_16": {
+      "EUen name": "Honey Candy"
+    },
+    "Item_Cook_I_13": {
+      "EUen name": "Fried Bananas"
+    },
+    "Item_Cook_I_14": {
+      "EUen name": "Egg Pudding"
+    },
+    "Item_Cook_I_10": {
+      "EUen name": "Plain Crepe"
+    },
+    "Item_Cook_I_11": {
+      "EUen name": "Wildberry Crepe"
+    },
+    "Item_Cook_I_17": {
+      "EUen name": "Honey Crepe"
+    },
+    "Item_Cook_I_12": {
+      "EUen name": "Nutcake"
+    },
+    "Item_Cook_N_02": {
+      "EUen name": "Fruitcake"
+    },
+    "Item_Cook_I_05": {
+      "EUen name": "Carrot Cake"
+    },
+    "Item_Cook_I_06": {
+      "EUen name": "Pumpkin Pie"
+    },
+    "Item_Cook_Q_09": {
+      "EUen name": "Cheesecake"
+    },
+    "Item_Cook_I_01": {
+      "EUen name": "Fruit Pie"
+    },
+    "Item_Cook_I_02": {
+      "EUen name": "Apple Pie"
+    },
+    "Item_Cook_I_03": {
+      "EUen name": "Egg Tart"
+    },
+    "Item_Cook_K_09": {
+      "EUen name": "Milk"
+    },
+    "Item_Cook_R_03": {
+      "EUen name": "Noble Pursuit"
+    },
+    "Item_Cook_L_01": {
+      "EUen name": "Monster Stew"
+    },
+    "Item_Cook_L_02": {
+      "EUen name": "Monster Soup"
+    },
+    "Item_Cook_L_05": {
+      "EUen name": "Monster Curry"
+    },
+    "Item_Cook_L_04": {
+      "EUen name": "Monster Rice Ball"
+    },
+    "Item_Cook_L_03": {
+      "EUen name": "Monster Cake"
+    },
+    "Item_Cook_S_05": {
+      "EUen name": "Dark Stew"
+    },
+    "Item_Cook_S_07": {
+      "EUen name": "Dark Soup"
+    },
+    "Item_Cook_S_08": {
+      "EUen name": "Dark Curry"
+    },
+    "Item_Cook_S_06": {
+      "EUen name": "Dark Rice Ball"
+    },
+    "Item_Cook_S_09": {
+      "EUen name": "Dark Cake"
+    },
+    "Item_Cook_O_01": {
+      "EUen name": "Dubious Food"
+    },
+    "Item_Cook_O_02": {
+      "EUen name": "Rock-Hard Food"
+    },
+    "Item_Cook_C_17_StaminaRecover": {
+      "EUen name": "Energizing Elixir"
+    },
+    "Item_Cook_C_17_AllSpeed": {
+      "EUen name": "Hasty Elixir"
+    },
+    "Item_Cook_C_17_ResistCold": {
+      "EUen name": "Spicy Elixir"
+    },
+    "Item_Cook_C_17_ResistHot": {
+      "EUen name": "Chilly Elixir"
+    },
+    "Item_Cook_C_17_ResistElectric": {
+      "EUen name": "Electro Elixir"
+    },
+    "Item_Cook_C_17_ResistBurn": {
+      "EUen name": "Fireproof Elixir"
+    },
+    "Item_Cook_C_17_AttackUp": {
+      "EUen name": "Mighty Elixir"
+    },
+    "Item_Cook_C_17_DefenseUp": {
+      "EUen name": "Tough Elixir"
+    },
+    "Item_Cook_C_17_QuietnessUp": {
+      "EUen name": "Sneaky Elixir"
+    },
+    "Item_Cook_C_17_NotSlippy": {
+      "EUen name": "Sticky Elixir"
+    },
+    "Item_Cook_C_17_LightEmission": {
+      "EUen name": "Bright Elixir"
+    },
+    "Item_Cook_C_17_ExStaminaMaxUp": {
+      "EUen name": "Enduring Elixir"
+    },
+    "Item_Cook_C_17_LifeMaxUp": {
+      "EUen name": "Hearty Elixir"
+    },
+    "Item_Cook_C_16": {
+      "EUen name": "Fairy Tonic"
+    },
+    "Armor_001_Head": {
+      "EUen name": "Hylian Hood"
+    },
+    "Armor_001_Lower": {
+      "EUen name": "Hylian Trousers"
+    },
+    "Armor_001_Upper": {
+      "EUen name": "Hylian Tunic"
+    },
+    "Armor_005_Head": {
+      "EUen name": "Cap of the Wild"
+    },
+    "Armor_005_Lower": {
+      "EUen name": "Trousers of the Wild"
+    },
+    "Armor_005_Upper": {
+      "EUen name": "Tunic of the Wild"
+    },
+    "Armor_006_Head": {
+      "EUen name": "Zora Helm"
+    },
+    "Armor_006_Lower": {
+      "EUen name": "Zora Greaves"
+    },
+    "Armor_006_Upper": {
+      "EUen name": "Zora Armor"
+    },
+    "Armor_008_Head": {
+      "EUen name": "Desert Voe Headband"
+    },
+    "Armor_008_Lower": {
+      "EUen name": "Desert Voe Trousers"
+    },
+    "Armor_008_Upper": {
+      "EUen name": "Desert Voe Spaulder"
+    },
+    "Armor_009_Head": {
+      "EUen name": "Snowquill Headdress"
+    },
+    "Armor_009_Lower": {
+      "EUen name": "Snowquill Trousers"
+    },
+    "Armor_009_Upper": {
+      "EUen name": "Snowquill Tunic"
+    },
+    "Armor_011_Head": {
+      "EUen name": "Flamebreaker Helm"
+    },
+    "Armor_011_Lower": {
+      "EUen name": "Flamebreaker Boots"
+    },
+    "Armor_011_Upper": {
+      "EUen name": "Flamebreaker Armor"
+    },
+    "Armor_012_Head": {
+      "EUen name": "Stealth Mask"
+    },
+    "Armor_012_Lower": {
+      "EUen name": "Stealth Tights"
+    },
+    "Armor_012_Upper": {
+      "EUen name": "Stealth Chest Guard"
+    },
+    "Armor_014_Head": {
+      "EUen name": "Climber's Bandanna"
+    },
+    "Armor_014_Lower": {
+      "EUen name": "Climbing Boots"
+    },
+    "Armor_014_Upper": {
+      "EUen name": "Climbing Gear"
+    },
+    "Armor_017_Head": {
+      "EUen name": "Radiant Mask"
+    },
+    "Armor_017_Lower": {
+      "EUen name": "Radiant Tights"
+    },
+    "Armor_017_Upper": {
+      "EUen name": "Radiant Shirt"
+    },
+    "Armor_020_Head": {
+      "EUen name": "Soldier's Helm"
+    },
+    "Armor_020_Lower": {
+      "EUen name": "Soldier's Greaves"
+    },
+    "Armor_020_Upper": {
+      "EUen name": "Soldier's Armor"
+    },
+    "Armor_022_Head": {
+      "EUen name": "Bokoblin Mask"
+    },
+    "Armor_024_Head": {
+      "EUen name": "Diamond Circlet"
+    },
+    "Armor_025_Head": {
+      "EUen name": "Ruby Circlet"
+    },
+    "Armor_026_Head": {
+      "EUen name": "Sapphire Circlet"
+    },
+    "Armor_027_Head": {
+      "EUen name": "Topaz Earrings"
+    },
+    "Armor_028_Head": {
+      "EUen name": "Opal Earrings"
+    },
+    "Armor_029_Head": {
+      "EUen name": "Amber Earrings"
+    },
+    "Armor_045_Head": {
+      "EUen name": "Moblin Mask"
+    },
+    "Armor_046_Head": {
+      "EUen name": "Rubber Helm"
+    },
+    "Armor_046_Lower": {
+      "EUen name": "Rubber Tights"
+    },
+    "Armor_046_Upper": {
+      "EUen name": "Rubber Armor"
+    },
+    "Armor_048_Head": {
+      "EUen name": "Barbarian Helm"
+    },
+    "Armor_048_Lower": {
+      "EUen name": "Barbarian Leg Wraps"
+    },
+    "Armor_048_Upper": {
+      "EUen name": "Barbarian Armor"
+    },
+    "Armor_049_Lower": {
+      "EUen name": "Sand Boots"
+    },
+    "Armor_055_Head": {
+      "EUen name": "Lizalfos Mask"
+    },
+    "Armor_056_Head": {
+      "EUen name": "Lynel Mask"
+    },
+    "Armor_1006_Head": {
+      "EUen name": "Glide Mask"
+    },
+    "Armor_1006_Lower": {
+      "EUen name": "Glide Tights"
+    },
+    "Armor_1006_Upper": {
+      "EUen name": "Glide Shirt"
+    },
+    "Armor_1036_Head": {
+      "EUen name": "Ancient Hero's Aspect"
+    },
+    "Armor_1036_Lower": {
+      "EUen name": null
+    },
+    "Armor_1036_Upper": {
+      "EUen name": null
+    },
+    "Armor_1043_Lower": {
+      "EUen name": "Archaic Legwear"
+    },
+    "Armor_1043_Upper": {
+      "EUen name": "Archaic Tunic"
+    },
+    "Armor_1044_Lower": {
+      "EUen name": "Archaic Warm Greaves"
+    },
+    "Armor_1046_Head": {
+      "EUen name": "Froggy Hood"
+    },
+    "Armor_1046_Lower": {
+      "EUen name": "Froggy Leggings"
+    },
+    "Armor_1046_Upper": {
+      "EUen name": "Froggy Sleeve"
+    },
+    "Armor_1051_Head": {
+      "EUen name": "Miner's Mask"
+    },
+    "Armor_1051_Lower": {
+      "EUen name": "Miner's Trousers"
+    },
+    "Armor_1051_Upper": {
+      "EUen name": "Miner's Top"
+    },
+    "Armor_1061_Head": {
+      "EUen name": "Ember Headdress"
+    },
+    "Armor_1061_Lower": {
+      "EUen name": "Ember Trousers"
+    },
+    "Armor_1061_Upper": {
+      "EUen name": "Ember Shirt"
+    },
+    "Armor_1066_Head": {
+      "EUen name": "Charged Headdress"
+    },
+    "Armor_1066_Lower": {
+      "EUen name": "Charged Trousers"
+    },
+    "Armor_1066_Upper": {
+      "EUen name": "Charged Shirt"
+    },
+    "Armor_1071_Head": {
+      "EUen name": "Frostbite Headdress"
+    },
+    "Armor_1071_Lower": {
+      "EUen name": "Frostbite Trousers"
+    },
+    "Armor_1071_Upper": {
+      "EUen name": "Frostbite Shirt"
+    },
+    "Armor_1076_Head": {
+      "EUen name": "Cece Hat"
+    },
+    "Armor_1086_Head": {
+      "EUen name": "Mystic Headpiece"
+    },
+    "Armor_1086_Lower": {
+      "EUen name": "Mystic Trousers"
+    },
+    "Armor_1086_Upper": {
+      "EUen name": "Mystic Robe"
+    },
+    "Armor_1091_Head": {
+      "EUen name": "Zonaite Helm"
+    },
+    "Armor_1091_Lower": {
+      "EUen name": "Zonaite Shin Guards"
+    },
+    "Armor_1091_Upper": {
+      "EUen name": "Zonaite Waistguard"
+    },
+    "Armor_1096_Head": {
+      "EUen name": "Mask of Awakening"
+    },
+    "Armor_1096_Lower": {
+      "EUen name": "Trousers of Awakening"
+    },
+    "Armor_1096_Upper": {
+      "EUen name": "Tunic of Awakening"
+    },
+    "Armor_1106_Upper": {
+      "EUen name": "Champion's Leathers"
+    },
+    "Armor_1125_Head": {
+      "EUen name": "Horriblin Mask"
+    },
+    "Armor_1141_Head": {
+      "EUen name": "Hood of the Depths"
+    },
+    "Armor_1141_Lower": {
+      "EUen name": "Gaiters of the Depths"
+    },
+    "Armor_1141_Upper": {
+      "EUen name": "Tunic of the Depths"
+    },
+    "Armor_1151_Head": {
+      "EUen name": "Well-Worn Hair Band"
+    },
+    "Armor_1152_Head": {
+      "EUen name": "Hylian Hood"
+    },
+    "Armor_115_Head": {
+      "EUen name": "Lightning Helm"
+    },
+    "Armor_116_Upper": {
+      "EUen name": "Tunic of Memories"
+    },
+    "Armor_1300_Head": {
+      "EUen name": "Yiga Mask"
+    },
+    "Armor_1300_Lower": {
+      "EUen name": "Yiga Tights"
+    },
+    "Armor_1300_Upper": {
+      "EUen name": "Yiga Armor"
+    },
+    "Armor_141_Lower": {
+      "EUen name": "Snow Boots"
+    },
+    "Armor_160_Head": {
+      "EUen name": "Dark Hood"
+    },
+    "Armor_160_Lower": {
+      "EUen name": "Dark Trousers"
+    },
+    "Armor_160_Upper": {
+      "EUen name": "Dark Tunic"
+    },
+    "Armor_171_Head": {
+      "EUen name": "Phantom Helmet"
+    },
+    "Armor_171_Lower": {
+      "EUen name": "Phantom Greaves"
+    },
+    "Armor_171_Upper": {
+      "EUen name": "Phantom Armor"
+    },
+    "Armor_172_Head": {
+      "EUen name": "Majora's Mask"
+    },
+    "Armor_173_Head": {
+      "EUen name": "Midna's Helmet"
+    },
+    "Armor_174_Head": {
+      "EUen name": "Tingle's Hood"
+    },
+    "Armor_174_Lower": {
+      "EUen name": "Tingle's Tights"
+    },
+    "Armor_174_Upper": {
+      "EUen name": "Tingle's Shirt"
+    },
+    "Armor_175_Upper": {
+      "EUen name": "Island Lobster Shirt"
+    },
+    "Armor_176_Head": {
+      "EUen name": "Korok Mask"
+    },
+    "Armor_177_Head": {
+      "EUen name": "Ravio's Hood"
+    },
+    "Armor_178_Head": {
+      "EUen name": "Zant's Helmet"
+    },
+    "Armor_179_Head": {
+      "EUen name": "Royal Guard Cap"
+    },
+    "Armor_179_Lower": {
+      "EUen name": "Royal Guard Boots"
+    },
+    "Armor_179_Upper": {
+      "EUen name": "Royal Guard Uniform"
+    },
+    "Armor_180_Head": {
+      "EUen name": "Evil Spirit Mask"
+    },
+    "Armor_180_Lower": {
+      "EUen name": "Evil Spirit Greaves"
+    },
+    "Armor_180_Upper": {
+      "EUen name": "Evil Spirit Armor"
+    },
+    "Armor_181_Head": {
+      "EUen name": "Vah Ruta Divine Helm"
+    },
+    "Armor_182_Head": {
+      "EUen name": "Vah Medoh Divine Helm"
+    },
+    "Armor_183_Head": {
+      "EUen name": "Vah Rudania Divine Helm"
+    },
+    "Armor_184_Head": {
+      "EUen name": "Vah Naboris Divine Helm"
+    },
+    "Armor_200_Head": {
+      "EUen name": "Cap of Time"
+    },
+    "Armor_200_Lower": {
+      "EUen name": "Trousers of Time"
+    },
+    "Armor_200_Upper": {
+      "EUen name": "Tunic of Time"
+    },
+    "Armor_205_Head": {
+      "EUen name": "Cap of the Wind"
+    },
+    "Armor_205_Lower": {
+      "EUen name": "Trousers of the Wind"
+    },
+    "Armor_205_Upper": {
+      "EUen name": "Tunic of the Wind"
+    },
+    "Armor_210_Head": {
+      "EUen name": "Cap of Twilight"
+    },
+    "Armor_210_Lower": {
+      "EUen name": "Trousers of Twilight"
+    },
+    "Armor_210_Upper": {
+      "EUen name": "Tunic of Twilight"
+    },
+    "Armor_215_Head": {
+      "EUen name": "Cap of the Sky"
+    },
+    "Armor_215_Lower": {
+      "EUen name": "Trousers of the Sky"
+    },
+    "Armor_215_Upper": {
+      "EUen name": "Tunic of the Sky"
+    },
+    "Armor_220_Head": {
+      "EUen name": "Sheik's Mask"
+    },
+    "Armor_225_Head": {
+      "EUen name": "Fierce Deity Mask"
+    },
+    "Armor_225_Lower": {
+      "EUen name": "Fierce Deity Boots"
+    },
+    "Armor_225_Upper": {
+      "EUen name": "Fierce Deity Armor"
+    },
+    "Armor_230_Head": {
+      "EUen name": "Cap of the Hero"
+    },
+    "Armor_230_Lower": {
+      "EUen name": "Trousers of the Hero"
+    },
+    "Armor_230_Upper": {
+      "EUen name": "Tunic of the Hero"
+    },
+    "Enemy_DungeonBoss_Zonau": {
+      "EUen name": "Seized Construct"
+    },
+    "Enemy_DungeonBoss_Zonau_Uncleared": {
+      "EUen name": "Seized Construct"
+    },
+    "Enemy_Kohga_Golem": {
+      "EUen name": null
+    },
+    "Enemy_ZombieCocoon_WeakPoint": {
+      "EUen name": null
+    },
+    "Enemy_ZombieNest_WeakPoint": {
+      "EUen name": null
+    },
+    "Enemy_ZombieWall_WeakPoint": {
+      "EUen name": null
+    },
+    "Enemy_Drake": {
+      "EUen name": null
+    },
+    "Enemy_Drake_Electric": {
+      "EUen name": "Thunder Gleeok"
+    },
+    "Enemy_Drake_Fire": {
+      "EUen name": "Flame Gleeok"
+    },
+    "Enemy_Drake_Ice": {
+      "EUen name": "Frost Gleeok"
+    },
+    "Enemy_Drake_Mix": {
+      "EUen name": "King Gleeok"
+    },
+    "Enemy_Dragon_Darkness": {
+      "EUen name": "Demon Dragon"
+    },
+    "Enemy_Ganondorf_Miasma": {
+      "EUen name": "Demon King Ganondorf (2nd Form)"
+    },
+    "Enemy_Lynel_Boss_Dark": {
+      "EUen name": "Silver Lynel"
+    },
+    "Enemy_Lynel_Dark": {
+      "EUen name": "Silver Lynel"
+    },
+    "Enemy_Lynel_Boss_Senior": {
+      "EUen name": "White-Maned Lynel"
+    },
+    "Enemy_Lynel_Senior": {
+      "EUen name": "White-Maned Lynel"
+    },
+    "Enemy_Lynel_Boss_Middle": {
+      "EUen name": "Blue-Maned Lynel"
+    },
+    "Enemy_Lynel_Middle": {
+      "EUen name": "Blue-Maned Lynel"
+    },
+    "Enemy_Ganondorf": {
+      "EUen name": "Demon King Ganondorf"
+    },
+    "Enemy_DungeonBoss_Gerudo": {
+      "EUen name": "Queen Gibdo"
+    },
+    "Enemy_DungeonBoss_Gerudo_Uncleared": {
+      "EUen name": "Queen Gibdo"
+    },
+    "Enemy_Kohga_GolemRider": {
+      "EUen name": null
+    },
+    "Enemy_Mogurudo_Senior": {
+      "EUen name": "Blue-White Frox"
+    },
+    "Enemy_DungeonBoss_Gerudo_Underground": {
+      "EUen name": "Queen Gibdo"
+    },
+    "Enemy_Lynel_Boss": {
+      "EUen name": "Lynel"
+    },
+    "Enemy_Lynel_Junior": {
+      "EUen name": "Lynel"
+    },
+    "Enemy_DungeonBoss_Zora_Underground": {
+      "EUen name": "Mucktorok"
+    },
+    "Enemy_Sandworm": {
+      "EUen name": "Molduga"
+    },
+    "Enemy_Mogurudo_Middle": {
+      "EUen name": "Obsidian Frox"
+    },
+    "Enemy_DungeonBoss_Zora": {
+      "EUen name": "Mucktorok"
+    },
+    "Enemy_DungeonBoss_Zora_Uncleared": {
+      "EUen name": "Mucktorok"
+    },
+    "Enemy_Bokoblin_Boss_Dark": {
+      "EUen name": "Silver Boss Bokoblin"
+    },
+    "Enemy_Dragon_Darkness_SecretStone": {
+      "EUen name": null
+    },
+    "Enemy_Dragon_Darkness_WeakPoint": {
+      "EUen name": null
+    },
+    "Enemy_Zonau_Golem_Dark": {
+      "EUen name": "Captain Construct IV"
+    },
+    "Enemy_Golem_Senior": {
+      "EUen name": "Stone Talus (Rare)"
+    },
+    "Enemy_Moriblin_Dark": {
+      "EUen name": "Silver Moblin"
+    },
+    "Enemy_Zonau_BlockMaster_Senior": {
+      "EUen name": "Flux Construct III"
+    },
+    "Enemy_Giant_Bone": {
+      "EUen name": "Stalnox"
+    },
+    "Enemy_Giant_Bone_AllDay": {
+      "EUen name": "Stalnox"
+    },
+    "Enemy_Giant_Senior": {
+      "EUen name": "Black Hinox"
+    },
+    "Enemy_Golem_Fire": {
+      "EUen name": "Igneo Talus"
+    },
+    "Enemy_Golem_Fire_KeyCrystal": {
+      "EUen name": "Igneo Talus"
+    },
+    "Enemy_Golem_Ice": {
+      "EUen name": "Frost Talus"
+    },
+    "Enemy_Golem_Ice_KeyCrystal": {
+      "EUen name": "Frost Talus"
+    },
+    "Enemy_LikeLike_Tar": {
+      "EUen name": "Sludge Like"
+    },
+    "Enemy_Lizalfos_Dark": {
+      "EUen name": "Silver Lizalfos"
+    },
+    "Enemy_Horablin_Dark": {
+      "EUen name": "Silver Horriblin"
+    },
+    "Enemy_DungeonBoss_Goron": {
+      "EUen name": "Marbled Gohma"
+    },
+    "Enemy_DungeonBoss_Goron_Uncleared": {
+      "EUen name": "Marbled Gohma"
+    },
+    "Enemy_DungeonBoss_Goron_Underground": {
+      "EUen name": "Marbled Gohma"
+    },
+    "Enemy_Giant_Middle": {
+      "EUen name": "Blue Hinox"
+    },
+    "Enemy_Bokoblin_Boss_Senior": {
+      "EUen name": "Black Boss Bokoblin"
+    },
+    "Enemy_Bokoblin_Boss_Senior_NoOrder": {
+      "EUen name": "Black Boss Bokoblin"
+    },
+    "Enemy_Bokoblin_Armor_Dark": {
+      "EUen name": "Silver Bokoblin"
+    },
+    "Enemy_Bokoblin_Dark": {
+      "EUen name": "Silver Bokoblin"
+    },
+    "Enemy_Zonau_BlockMaster_Middle": {
+      "EUen name": "Flux Construct II"
+    },
+    "Enemy_Zonau_Robot_Dark": {
+      "EUen name": "Soldier Construct IV"
+    },
+    "Enemy_Mogurudo_Junior": {
+      "EUen name": "Frox"
+    },
+    "Enemy_Golem_Middle": {
+      "EUen name": "Stone Talus (Luminous)"
+    },
+    "Enemy_Assassin_Senior": {
+      "EUen name": "Master Kohga"
+    },
+    "Enemy_DungeonBoss_Rito": {
+      "EUen name": "Colgera"
+    },
+    "Enemy_DungeonBoss_Rito_Uncleared": {
+      "EUen name": "Colgera"
+    },
+    "Enemy_DungeonBoss_Rito_Underground": {
+      "EUen name": "Colgera"
+    },
+    "Enemy_Giant_Junior": {
+      "EUen name": "Hinox"
+    },
+    "Enemy_Giant_Junior_KeyCrystal": {
+      "EUen name": "HInox"
+    },
+    "Enemy_PhantomGanon": {
+      "EUen name": "Phantom Ganon"
+    },
+    "Enemy_Assassin_Middle": {
+      "EUen name": "Yiga Blademaster"
+    },
+    "Enemy_Assassin_Middle_Gatekeeper": {
+      "EUen name": "Yiga Blademaster"
+    },
+    "Enemy_Bokoblin_Boss_Middle": {
+      "EUen name": "Blue Boss Bokoblin"
+    },
+    "Enemy_LikeLike_Electric": {
+      "EUen name": "Shock Like"
+    },
+    "Enemy_Golem_Fort_A": {
+      "EUen name": "Battle Talus"
+    },
+    "Enemy_Golem_Fort_A_Wander": {
+      "EUen name": "Battle Talus"
+    },
+    "Enemy_Golem_Junior": {
+      "EUen name": "Stone Talus"
+    },
+    "Enemy_Golem_Junior_KeyCrystal": {
+      "EUen name": "Stone Talus"
+    },
+    "Enemy_Zonau_Golem_Senior": {
+      "EUen name": "Captain Construct III"
+    },
+    "Enemy_Moriblin_Senior": {
+      "EUen name": "Black Moblin"
+    },
+    "Enemy_Zonau_BlockMaster_Junior": {
+      "EUen name": "Flux Construct I"
+    },
+    "Enemy_Wizzrobe_Electric_Senior": {
+      "EUen name": "Thunder Wizzrobe"
+    },
+    "Enemy_Wizzrobe_Fire_Senior": {
+      "EUen name": "Meteo Wizzrobe"
+    },
+    "Enemy_Wizzrobe_Ice_Senior": {
+      "EUen name": "Blizzrobe"
+    },
+    "Enemy_Lizalfos_Electric": {
+      "EUen name": "Electric Lizalfos"
+    },
+    "Enemy_Lizalfos_Senior": {
+      "EUen name": "Black Lizalfos"
+    },
+    "Enemy_Horablin_Senior": {
+      "EUen name": "Black Horriblin"
+    },
+    "Enemy_LikeLike_Crack": {
+      "EUen name": "Rock Like"
+    },
+    "Enemy_LikeLike_Crack_RagdollShort": {
+      "EUen name": null
+    },
+    "Enemy_LikeLike_Fire": {
+      "EUen name": "Fire Like"
+    },
+    "Enemy_LikeLike_Fire_RagdollShort": {
+      "EUen name": null
+    },
+    "Enemy_LikeLike_Ice": {
+      "EUen name": "Ice Like"
+    },
+    "Enemy_Bokoblin_Armor_Senior": {
+      "EUen name": "Black Bokoblin"
+    },
+    "Enemy_Bokoblin_Senior": {
+      "EUen name": "Black Bokoblin"
+    },
+    "Enemy_Bokoblin_Boss_Junior": {
+      "EUen name": "Boss Bokoblin"
+    },
+    "Enemy_LikeLike_Electric_RagdollShort": {
+      "EUen name": null
+    },
+    "Enemy_LikeLike_Ice_RagdollShort": {
+      "EUen name": null
+    },
+    "Enemy_LikeLike_Plane": {
+      "EUen name": "Like Like"
+    },
+    "Enemy_LikeLike_Plane_RagdollShort": {
+      "EUen name": null
+    },
+    "Enemy_Zonau_BlockMaster_Junior_Beginning": {
+      "EUen name": "Flux Construct I"
+    },
+    "Enemy_Zonau_Golem_Middle": {
+      "EUen name": "Captain Construct II"
+    },
+    "Enemy_Lizalfos_Fire": {
+      "EUen name": "Fire-Breath Lizalfos"
+    },
+    "Enemy_Lizalfos_Fire_GerudoCanyon": {
+      "EUen name": "Fire-Breath Lizalfos"
+    },
+    "Enemy_Lizalfos_Fire_GerudoCanyon_PopUp": {
+      "EUen name": "Fire-Breath Lizalfos"
+    },
+    "Enemy_Lizalfos_Ice": {
+      "EUen name": "Ice-Breath Lizalfos"
+    },
+    "Enemy_Lizalfos_Ice_GerudoCanyon": {
+      "EUen name": "Ice-Breath Lizalfos"
+    },
+    "Enemy_Lizalfos_Ice_GerudoCanyon_Popup": {
+      "EUen name": "Ice-Breath Lizalfos"
+    },
+    "Enemy_Zonau_Robot_Senior": {
+      "EUen name": "Soldier Construct III"
+    },
+    "Enemy_Wizzrobe_Electric": {
+      "EUen name": "Electric Wizzrobe"
+    },
+    "Enemy_Wizzrobe_Fire": {
+      "EUen name": "Fire Wizzrobe"
+    },
+    "Enemy_Wizzrobe_Ice": {
+      "EUen name": "Ice Wizzrobe"
+    },
+    "Enemy_Moriblin_Middle": {
+      "EUen name": "Blue Moblin"
+    },
+    "Enemy_Lizalfos_Guard_Middle": {
+      "EUen name": "Blue Lizalfos"
+    },
+    "Enemy_Lizalfos_Guard_Middle_LongVisibility": {
+      "EUen name": "Blue Lizalfos"
+    },
+    "Enemy_Lizalfos_Middle": {
+      "EUen name": "Blue Lizalfos"
+    },
+    "Enemy_Horablin_Guard_Middle": {
+      "EUen name": "Blue Horriblin"
+    },
+    "Enemy_Horablin_Middle": {
+      "EUen name": "Blue Horriblin"
+    },
+    "Enemy_CDungeon_Practice": {
+      "EUen name": "Training Construct"
+    },
+    "Enemy_Zonau_Golem_Junior": {
+      "EUen name": "Captain Construct I"
+    },
+    "Enemy_Zonau_Golem_Junior_ForFirstSmallDungeon": {
+      "EUen name": "Captain Construct I"
+    },
+    "Enemy_Assassin_Junior": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Assassin_Junior_GateKeeper": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Assassin_Junior_Practice": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Bokoblin_Armor_Middle": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Middle": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Middle_Ambush": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Middle_Cliff": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Middle_TreeHouseTop": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Bokoblin_Middle": {
+      "EUen name": "Blue Bokoblin"
+    },
+    "Enemy_Zonau_Robot_Middle": {
+      "EUen name": "Soldier Construct II"
+    },
+    "Enemy_Zonau_Robot_Middle_Lookout": {
+      "EUen name": "Soldier Construct II"
+    },
+    "Enemy_Assassin_Shooter_Junior": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Assassin_Shooter_Junior_Practice": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Moriblin_Junior": {
+      "EUen name": "Moblin"
+    },
+    "Enemy_Moriblin_Junior_LongSight": {
+      "EUen name": "Moblin"
+    },
+    "Enemy_Moriblin_Junior_Lookout_Cliff": {
+      "EUen name": "Moblin"
+    },
+    "Enemy_Zombie_Junior": {
+      "EUen name": "Gibdo"
+    },
+    "Enemy_Zombie_Junior_Defense": {
+      "EUen name": null
+    },
+    "Enemy_Zombie_Junior_ForDungeonBossGerudoBattle": {
+      "EUen name": null
+    },
+    "Enemy_Lizalfos_Guard_Junior": {
+      "EUen name": "Lizalfos"
+    },
+    "Enemy_Lizalfos_Guard_Junior_LongVisibility": {
+      "EUen name": "Lizalfos"
+    },
+    "Enemy_Lizalfos_Junior": {
+      "EUen name": "Lizalfos"
+    },
+    "Enemy_Chuchu_Electric_Senior": {
+      "EUen name": "Electric Chuchu"
+    },
+    "Enemy_Chuchu_Fire_Senior": {
+      "EUen name": "Fire Chuchu"
+    },
+    "Enemy_Chuchu_Ice_Senior": {
+      "EUen name": "Ice Chuchu"
+    },
+    "Enemy_Chuchu_Senior": {
+      "EUen name": "Chuchu"
+    },
+    "Enemy_Treant_Bee": {
+      "EUen name": null
+    },
+    "Enemy_Treant_Broadleaf": {
+      "EUen name": "Evermean"
+    },
+    "Enemy_Treant_D": {
+      "EUen name": null
+    },
+    "Enemy_Treant_E": {
+      "EUen name": null
+    },
+    "Enemy_Zombie_Boss_Junior": {
+      "EUen name": "Moth Gibdo"
+    },
+    "Enemy_Zombie_Boss_Junior_Defense": {
+      "EUen name": null
+    },
+    "Enemy_Zombie_Boss_Junior_ForDungeonBossGerudoBattle": {
+      "EUen name": null
+    },
+    "Enemy_Horablin_Guard_Junior": {
+      "EUen name": "Horriblin"
+    },
+    "Enemy_Horablin_Junior": {
+      "EUen name": "Horriblin"
+    },
+    "Enemy_Bokoblin_Armor_Junior": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Junior": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Junior_Ambush": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Junior_Cliff": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Junior_Golem_Fort": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Guard_Junior_TreeHouseTop": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Junior": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_NoSleep_Junior": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Bokoblin_Sniper_Junior": {
+      "EUen name": "Bokoblin"
+    },
+    "Enemy_Chuchu_Electric_Middle": {
+      "EUen name": "Electric Chuchu"
+    },
+    "Enemy_Chuchu_Electric_Middle_Army": {
+      "EUen name": "Electric Chuchu"
+    },
+    "Enemy_Chuchu_Fire_Middle": {
+      "EUen name": "Fire Chuchu"
+    },
+    "Enemy_Chuchu_Fire_Middle_Army": {
+      "EUen name": "Fire Chuchu"
+    },
+    "Enemy_Chuchu_Ice_Middle": {
+      "EUen name": "Ice Chuchu"
+    },
+    "Enemy_Chuchu_Ice_Middle_Army": {
+      "EUen name": "Ice Chuchu"
+    },
+    "Enemy_Chuchu_Middle": {
+      "EUen name": "Chuchu"
+    },
+    "Enemy_Golem_Little": {
+      "EUen name": "Stone Pebblit"
+    },
+    "Enemy_Golem_Little_Fire": {
+      "EUen name": "Igneo Pebblit"
+    },
+    "Enemy_Golem_Little_Ice": {
+      "EUen name": "Frost Pebblit"
+    },
+    "Enemy_CaveMaster_000": {
+      "EUen name": "Bubbulfrog"
+    },
+    "Enemy_CaveMaster_Middle": {
+      "EUen name": null
+    },
+    "Enemy_CaveMaster_Senior": {
+      "EUen name": null
+    },
+    "Enemy_Mogurudo_Baby_Junior": {
+      "EUen name": "Little Frox"
+    },
+    "Enemy_Zonau_Robot_Junior": {
+      "EUen name": "Soldier Construct I"
+    },
+    "Enemy_Zonau_Robot_Junior_Beginning": {
+      "EUen name": "Soldier Construct I"
+    },
+    "Enemy_Zonau_Robot_Junior_Lookout": {
+      "EUen name": "Soldier Construct I"
+    },
+    "Enemy_Zonau_Robot_Junior_Lookout_Mile": {
+      "EUen name": "Soldier Construct I"
+    },
+    "Enemy_Chuchu_Electric_Junior": {
+      "EUen name": "Electric Chuchu"
+    },
+    "Enemy_Chuchu_Fire_Junior": {
+      "EUen name": "Fire Chuchu"
+    },
+    "Enemy_Chuchu_Ice_Junior": {
+      "EUen name": "Ice Chuchu"
+    },
+    "Enemy_Chuchu_Junior": {
+      "EUen name": "Chuchu"
+    },
+    "Enemy_Octarock": {
+      "EUen name": "Water Octorok"
+    },
+    "Enemy_Octarock_Desert": {
+      "EUen name": "Treasure Octorok"
+    },
+    "Enemy_Octarock_Forest": {
+      "EUen name": "Forest Octorok"
+    },
+    "Enemy_Octarock_Snow": {
+      "EUen name": "Snow Octorok"
+    },
+    "Enemy_Octarock_Stone": {
+      "EUen name": "Rock Octorok"
+    },
+    "Enemy_MiddleBoss_Goron": {
+      "EUen name": "Moragia"
+    },
+    "Enemy_Moriblin_Bone_Junior_AllDay": {
+      "EUen name": "Stalmoblin"
+    },
+    "Enemy_Moriblin_Bone_Junior_AllDay_AlwaysRespawn": {
+      "EUen name": "Stalmoblin"
+    },
+    "Enemy_Bee_Swarm": {
+      "EUen name": null
+    },
+    "Enemy_Bokoblin_Bone_Junior": {
+      "EUen name": "Stalkoblin"
+    },
+    "Enemy_Bokoblin_Bone_Junior_AllDay": {
+      "EUen name": "Stalkoblin"
+    },
+    "Enemy_Bokoblin_Bone_Junior_AllDay_AlwaysRespawn": {
+      "EUen name": "Stalkoblin"
+    },
+    "Enemy_Lizalfos_Bone_Junior": {
+      "EUen name": "Stalizalfos"
+    },
+    "Enemy_Toby_Junior": {
+      "EUen name": "Aerocuda"
+    },
+    "Enemy_Toby_Junior_Sky": {
+      "EUen name": "Aerocuda"
+    },
+    "Enemy_Toby_Junior_Terminal": {
+      "EUen name": "Aerocuda"
+    },
+    "Enemy_Assassin_Junior_Rider": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Assassin_Junior_Rider_Bow": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Assassin_Junior_Shooter_Subordinates": {
+      "EUen name": "Yiga Footsoldier"
+    },
+    "Enemy_Keese": {
+      "EUen name": "Keese"
+    },
+    "Enemy_Keese_AllDay": {
+      "EUen name": "Keese"
+    },
+    "Enemy_Keese_Cadaver": {
+      "EUen name": null
+    },
+    "Enemy_Keese_Electric": {
+      "EUen name": "Electric Keese"
+    },
+    "Enemy_Keese_Electric_AllDay": {
+      "EUen name": "Electric Keese"
+    },
+    "Enemy_Keese_Fire": {
+      "EUen name": "Fire Keese"
+    },
+    "Enemy_Keese_Fire_AllDay": {
+      "EUen name": "Fire Keese"
+    },
+    "Enemy_Keese_Ice": {
+      "EUen name": "Ice Keese"
+    },
+    "Enemy_Keese_Ice_AllDay": {
+      "EUen name": "Ice Keese"
+    },
+    "Enemy_Keese_Ice_Army": {
+      "EUen name": null
+    },
+    "Enemy_Keese_Swarm": {
+      "EUen name": null
+    },
+    "Enemy_Keese_Swarm_AllDay": {
+      "EUen name": null
+    },
+    "Enemy_Keese_Swarm_Cave": {
+      "EUen name": null
+    },
+    "Enemy_Dragon_Electric": {
+      "EUen name": "Farosh"
+    },
+    "Enemy_Dragon_Fire": {
+      "EUen name": "Dinraal"
+    },
+    "Enemy_Dragon_Ice": {
+      "EUen name": "Naydra"
+    },
+    "Enemy_Dragon_Light_001": {
+      "EUen name": "Light Dragon"
+    },
+    "Enemy_Dragon_Light_002": {
+      "EUen name": null
+    },
+    "CaveMasterMedal": {
+      "EUen name": "Bubbul Gem"
+    },
+    "DyeColor_Black": {
+      "EUen name": null
+    },
+    "DyeColor_Blue": {
+      "EUen name": null
+    },
+    "DyeColor_Brown": {
+      "EUen name": null
+    },
+    "DyeColor_Crimson": {
+      "EUen name": null
+    },
+    "DyeColor_Gray": {
+      "EUen name": null
+    },
+    "DyeColor_Green": {
+      "EUen name": null
+    },
+    "DyeColor_LightBlue": {
+      "EUen name": null
+    },
+    "DyeColor_LightYellow": {
+      "EUen name": null
+    },
+    "DyeColor_Navy": {
+      "EUen name": null
+    },
+    "DyeColor_Orange": {
+      "EUen name": null
+    },
+    "DyeColor_Pink": {
+      "EUen name": null
+    },
+    "DyeColor_Purple": {
+      "EUen name": null
+    },
+    "DyeColor_Red": {
+      "EUen name": null
+    },
+    "DyeColor_White": {
+      "EUen name": null
+    },
+    "DyeColor_Yellow": {
+      "EUen name": null
+    },
+    "Energy_Material_01": {
+      "EUen name": "Crystallized Charge"
+    },
+    "Energy_Material_03": {
+      "EUen name": "Large Crystallized Charge"
+    },
+    "Energy_Material_04": {
+      "EUen name": "Huge Crystallized Charge"
+    },
+    "GameRomHorseReins_00": {
+      "EUen name": null
+    },
+    "GameRomHorseReins_01": {
+      "EUen name": "Traveler's Bridle"
+    },
+    "GameRomHorseReins_02": {
+      "EUen name": "Royal Bridle"
+    },
+    "GameRomHorseReins_03": {
+      "EUen name": "Knight's Bridle"
+    },
+    "GameRomHorseReins_04": {
+      "EUen name": "Monster Bridle"
+    },
+    "GameRomHorseReins_05": {
+      "EUen name": "Extravagant Bridle"
+    },
+    "GameRomHorseSaddle_00": {
+      "EUen name": null
+    },
+    "GameRomHorseSaddle_01": {
+      "EUen name": "Traveler's Saddle"
+    },
+    "GameRomHorseSaddle_02": {
+      "EUen name": "Royal Saddle"
+    },
+    "GameRomHorseSaddle_03": {
+      "EUen name": "Knight's Saddle"
+    },
+    "GameRomHorseSaddle_04": {
+      "EUen name": "Monster Saddle"
+    },
+    "GameRomHorseSaddle_05": {
+      "EUen name": "Extravagant Saddle"
+    },
+    "GameRomHorseSaddle_06": {
+      "EUen name": null
+    },
+    "GameRomHorseSaddle_07": {
+      "EUen name": "Towing Harness"
+    },
+    "Helmet_001": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_01": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_02": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_03": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_04": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_05": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_06": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_07": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_08": {
+      "EUen name": null
+    },
+    "Horse_Link_Mane_09": {
+      "EUen name": null
+    },
+    "Item_StableHostelAccomodationCoupon_A": {
+      "EUen name": "Sleepover Ticket"
+    },
+    "KeySmall": {
+      "EUen name": "Small Key"
+    },
+    "MinusRupee_00": {
+      "EUen name": "Poe"
+    },
+    "MinusRupee_01": {
+      "EUen name": "Large Poe"
+    },
+    "MinusRupee_02": {
+      "EUen name": "Grand Poe"
+    },
+    "Npc_Zelda_Torch": {
+      "EUen name": null
+    },
+    "Obj_AmiiboItem": {
+      "EUen name": "amiibo"
+    },
+    "Obj_AutoBuilder": {
+      "EUen name": "Autobuild"
+    },
+    "Obj_AutoBuilderDraft_00": {
+      "EUen name": "Schema Stone"
+    },
+    "Obj_AutoBuilderDraftAssassin_00": {
+      "EUen name": "Yiga Schematic"
+    },
+    "Obj_Battery_Get_Capacity_03": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_04": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_05": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_06": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_07": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_08": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_09": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_10": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_11": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_12": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_13": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_14": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_15": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_16": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_17": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_18": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_19": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_20": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_21": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_22": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_23": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_24": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_25": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_26": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_27": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_28": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_29": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_30": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_31": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_32": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_33": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_34": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_35": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_36": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_37": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_38": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_39": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_40": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_41": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_42": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_43": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_44": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_45": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_46": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_47": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Battery_Get_Capacity_48": {
+      "EUen name": "Energy Cell"
+    },
+    "Obj_Camera": {
+      "EUen name": "Camera"
+    },
+    "Obj_CaveWellHonor_00": {
+      "EUen name": "All's Well"
+    },
+    "Obj_CheckPointHonor_00": {
+      "EUen name": "Dispelling Darkness Medal"
+    },
+    "Obj_DefeatHonor_00": {
+      "EUen name": "Stone Talus Monster Medal"
+    },
+    "Obj_DefeatHonor_01": {
+      "EUen name": "Hinox Monster Medal"
+    },
+    "Obj_DefeatHonor_02": {
+      "EUen name": "Molduga Monster Medal"
+    },
+    "Obj_DefeatHonor_03": {
+      "EUen name": "Frox Monster Medal"
+    },
+    "Obj_DefeatHonor_04": {
+      "EUen name": "Flux Construct Monster Medal"
+    },
+    "Obj_DefeatHonor_05": {
+      "EUen name": "Gleeok Monster Medal"
+    },
+    "Obj_DRStone_Get": {
+      "EUen name": "Purah Pad"
+    },
+    "Obj_DungeonClearSeal": {
+      "EUen name": "Light of Blessing"
+    },
+    "Obj_EnergyUtuwa_A_01": {
+      "EUen name": "Energy Well"
+    },
+    "Obj_HeartUtuwua_A_01": {
+      "EUen name": "Heart Container"
+    },
+    "Obj_HiddenScroll_00": {
+      "EUen name": "Earthwake Manual"
+    },
+    "Obj_KorokNuts": {
+      "EUen name": "Korok Seed"
+    },
+    "Obj_LinkHouse_A_01": {
+      "EUen name": null
+    },
+    "Obj_LinkHouse_B_01": {
+      "EUen name": null
+    },
+    "Obj_LinkHouse_C_01": {
+      "EUen name": null
+    },
+    "Obj_LinkHouse_D_01": {
+      "EUen name": null
+    },
+    "Obj_LinkHouse_E_01": {
+      "EUen name": null
+    },
+    "Obj_LinkHouse_F_01": {
+      "EUen name": null
+    },
+    "Obj_OneTouchBond": {
+      "EUen name": "Fuse"
+    },
+    "Obj_Photo_Animal": {
+      "EUen name": "Fauna Picture"
+    },
+    "Obj_Photo_BossEnemy": {
+      "EUen name": "Elite Enemy Picture"
+    },
+    "Obj_Photo_Enemy": {
+      "EUen name": "Enemy Picture"
+    },
+    "Obj_Photo_Material": {
+      "EUen name": "Material Picture"
+    },
+    "Obj_Photo_Other": {
+      "EUen name": "Other Picture"
+    },
+    "Obj_Photo_Weapon": {
+      "EUen name": "Weapon Picture"
+    },
+    "Obj_PictureBook": {
+      "EUen name": "Hyrule Compendium"
+    },
+    "Obj_ProofKorok": {
+      "EUen name": "Hestu's Gift"
+    },
+    "Obj_ReverseRecorder": {
+      "EUen name": "Recall"
+    },
+    "Obj_SageSoul_Gerudo": {
+      "EUen name": "Vow of Riju, Sage of Lightning"
+    },
+    "Obj_SageSoul_Goron": {
+      "EUen name": "Vow of Yunobo, Sage of Fire"
+    },
+    "Obj_SageSoul_Rito": {
+      "EUen name": "Vow of Tulin, Sage of Wind"
+    },
+    "Obj_SageSoul_Zonau": {
+      "EUen name": "Vow of Mineru, Sage of Spirit"
+    },
+    "Obj_SageSoul_Zora": {
+      "EUen name": "Vow of Sidon, Sage of Water"
+    },
+    "Obj_SageSoulPlus_Gerudo": {
+      "EUen name": "Solemn Vow of Riju, Sage of Lightning"
+    },
+    "Obj_SageSoulPlus_Goron": {
+      "EUen name": "Solemn Vow of Yunobo, Sage of Fire"
+    },
+    "Obj_SageSoulPlus_Rito": {
+      "EUen name": "Solemn Vow of Tulin, Sage of Wind"
+    },
+    "Obj_SageSoulPlus_Zonau": {
+      "EUen name": "Solemn Vow of Mineru, Sage of Spirit"
+    },
+    "Obj_SageSoulPlus_Zora": {
+      "EUen name": "Solemn Vow of Sidon, Sage of Water"
+    },
+    "Obj_SageWill": {
+      "EUen name": "Sage's Will"
+    },
+    "Obj_SheikSensor": {
+      "EUen name": "Sensor"
+    },
+    "Obj_SheikSensorLv2": {
+      "EUen name": "Sensor +"
+    },
+    "Obj_StableHostlePointCard": {
+      "EUen name": "Pony Points Card"
+    },
+    "Obj_StaminUtuwa_A_01": {
+      "EUen name": "Stamina Vessel"
+    },
+    "Obj_SubstituteCloth_00": {
+      "EUen name": "Goron Fabric"
+    },
+    "Obj_SubstituteCloth_01": {
+      "EUen name": "Zora Fabric"
+    },
+    "Obj_SubstituteCloth_02": {
+      "EUen name": "Gerudo Fabric"
+    },
+    "Obj_SubstituteCloth_03": {
+      "EUen name": "Royal Hyrulean Fabric"
+    },
+    "Obj_SubstituteCloth_04": {
+      "EUen name": "Zonai Fabric"
+    },
+    "Obj_SubstituteCloth_05": {
+      "EUen name": "Sheikah Fabric"
+    },
+    "Obj_SubstituteCloth_06": {
+      "EUen name": "Yiga Fabric"
+    },
+    "Obj_SubstituteCloth_07": {
+      "EUen name": "Monster-Control-Crew Fabric"
+    },
+    "Obj_SubstituteCloth_08": {
+      "EUen name": "Zonai Survey Team Fabric"
+    },
+    "Obj_SubstituteCloth_09": {
+      "EUen name": "Horse-God Fabric"
+    },
+    "Obj_SubstituteCloth_10": {
+      "EUen name": "Lurelin Village Fabric"
+    },
+    "Obj_SubstituteCloth_11": {
+      "EUen name": "Lucky Clover Gazette Fabric"
+    },
+    "Obj_SubstituteCloth_12": {
+      "EUen name": "Hudson Construction Fabric"
+    },
+    "Obj_SubstituteCloth_13": {
+      "EUen name": "Koltin's Fabric"
+    },
+    "Obj_SubstituteCloth_14": {
+      "EUen name": "Korok Fabric"
+    },
+    "Obj_SubstituteCloth_15": {
+      "EUen name": "Grizzlemaw-Bear Fabric"
+    },
+    "Obj_SubstituteCloth_16": {
+      "EUen name": "Robbie's Fabric"
+    },
+    "Obj_SubstituteCloth_17": {
+      "EUen name": "Cece Fabric"
+    },
+    "Obj_SubstituteCloth_18": {
+      "EUen name": "Aerocuda Fabric"
+    },
+    "Obj_SubstituteCloth_19": {
+      "EUen name": "Eldin-Ostrich Fabric"
+    },
+    "Obj_SubstituteCloth_20": {
+      "EUen name": "Cucco Fabric"
+    },
+    "Obj_SubstituteCloth_21": {
+      "EUen name": "Horse Fabric"
+    },
+    "Obj_SubstituteCloth_22": {
+      "EUen name": "Chuchu Fabric"
+    },
+    "Obj_SubstituteCloth_23": {
+      "EUen name": "Lynel Fabric"
+    },
+    "Obj_SubstituteCloth_24": {
+      "EUen name": "Gleeok Fabric"
+    },
+    "Obj_SubstituteCloth_25": {
+      "EUen name": "Stalnox Fabric"
+    },
+    "Obj_SubstituteCloth_26": {
+      "EUen name": "Tunic of Memories Fabric"
+    },
+    "Obj_SubstituteCloth_27": {
+      "EUen name": "Hylian-Hood Fabric"
+    },
+    "Obj_SubstituteCloth_28": {
+      "EUen name": "Hyrule-Princess Fabric"
+    },
+    "Obj_SubstituteCloth_29": {
+      "EUen name": "Goron-Champion Fabric"
+    },
+    "Obj_SubstituteCloth_30": {
+      "EUen name": "Rito-Champion Fabric"
+    },
+    "Obj_SubstituteCloth_31": {
+      "EUen name": "Zora-Champion Fabric"
+    },
+    "Obj_SubstituteCloth_32": {
+      "EUen name": "Gerudo-Champion Fabric"
+    },
+    "Obj_SubstituteCloth_33": {
+      "EUen name": "Ancient-Sheikah Fabric"
+    },
+    "Obj_SubstituteCloth_34": {
+      "EUen name": "Bokobblin Fabric"
+    },
+    "Obj_SubstituteCloth_35": {
+      "EUen name": "Demon King Fabric"
+    },
+    "Obj_SubstituteCloth_36": {
+      "EUen name": "King of Red Lions Fabric"
+    },
+    "Obj_SubstituteCloth_37": {
+      "EUen name": "Sheik Fabric"
+    },
+    "Obj_SubstituteCloth_38": {
+      "EUen name": "Mirror of Twilight Fabric"
+    },
+    "Obj_SubstituteCloth_39": {
+      "EUen name": "Princess of Twilight Fabric"
+    },
+    "Obj_SubstituteCloth_40": {
+      "EUen name": "Lon Lon Ranch Fabric"
+    },
+    "Obj_SubstituteCloth_41": {
+      "EUen name": "Majora's Mask Fabric"
+    },
+    "Obj_SubstituteCloth_43": {
+      "EUen name": "Bygone-Royal Fabric"
+    },
+    "Obj_SubstituteCloth_45": {
+      "EUen name": "Sword-Spirit Fabric"
+    },
+    "Obj_SubstituteCloth_46": {
+      "EUen name": "Pixel Fabric"
+    },
+    "Obj_SubstituteCloth_48": {
+      "EUen name": "Egg Fabric"
+    },
+    "Obj_SubstituteCloth_49": {
+      "EUen name": "Goddess Fabric"
+    },
+    "Obj_SubstituteCloth_51": {
+      "EUen name": "Champion's Leathers Fabric"
+    },
+    "Obj_SubstituteCloth_52": {
+      "EUen name": "Princess Zelda Fabric"
+    },
+    "Obj_SubstituteCloth_53": {
+      "EUen name": "Gerudo-King Fabric"
+    },
+    "Obj_SubstituteCloth_55": {
+      "EUen name": "Nostalgic Fabric"
+    },
+    "Obj_SubstituteCloth_56": {
+      "EUen name": "Addison's Fabric"
+    },
+    "Obj_SubstituteCloth_Default": {
+      "EUen name": "Ordinary Fabric"
+    },
+    "Obj_Tooreroof": {
+      "EUen name": "Ascend"
+    },
+    "Obj_TreasureMap_00": {
+      "EUen name": "Old Map"
+    },
+    "Obj_UltraHand": {
+      "EUen name": "Ultrahand"
+    },
+    "Obj_Warp": {
+      "EUen name": null
+    },
+    "Obj_WarpDLC": {
+      "EUen name": "Travel Medallion"
+    },
+    "Obj_WarpDLC_Prototype": {
+      "EUen name": "Travel Medallion Prototype"
+    },
+    "Parasail": {
+      "EUen name": "Paraglider"
+    },
+    "PutRupee": {
+      "EUen name": "Rupee"
+    },
+    "PutRupee_Blue": {
+      "EUen name": "Blue Rupee"
+    },
+    "PutRupee_Gold": {
+      "EUen name": "Gold Rupee"
+    },
+    "PutRupee_Purple": {
+      "EUen name": "Purple Rupee"
+    },
+    "PutRupee_Red": {
+      "EUen name": "Red Rupee"
+    },
+    "PutRupee_Silver": {
+      "EUen name": "Silver Rupee"
+    },
+    "Weapon_Base": {
+      "EUen name": null
+    }
+  }
