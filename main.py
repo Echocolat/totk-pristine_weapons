@@ -13,7 +13,7 @@ with open('statues.json') as json_file:
 def _get_unpack_endian_char(be: bool):
     return '>' if be else '<'
 
-class Beco:
+class Beco:   # Courtesy of leoetlino c: https://github.com/leoetlino/botw-re-notes/blob/master/tools/beco.py
     MAGIC = b'\x00\x11\x22\x33'
     HEADER_SIZE = 0x10
 
